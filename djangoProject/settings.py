@@ -86,7 +86,7 @@ DATABASES = {
         'NAME': 'prof_standart',
         'USER': secrets.USER,
         'PASSWORD': secrets.PASSWORD,
-        'HOST': '127.0.0.1',
+        'HOST': '',
         'PORT': '3306',
         'OPTIONS': {
             'init_command': "SET sql_mode='STRICT_TRANS_TABLES'"
