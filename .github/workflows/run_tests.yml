@@ -7,11 +7,26 @@ jobs:
   test:
     runs-on: ubuntu-latest
 
+    env:
+      DB_DATABASE: prof_standart
+      DB_USER: root
+      DB_PASSWORD: 'root'
+      DB_HOST: localhost
+
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+      - run: |
+          sudo /etc/init.d/mysql start
+          mysql -e 'CREATE DATABASE prof_standart;' -uroot -proot
+          mysql -e 'SHOW DATABASES;' -uroot -proot
+      - name: Cancel previous runs of this workflow
+        uses: styfle/cancel-workflow-action@0.6.0
+        with:
+          access_token: ${{ github.token }}
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
@@ -20,15 +35,6 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Shutdown Ubuntu MySQL (SUDO)
-        run: sudo service mysql stop
-      - name: install mysql
-        uses: mirromutth/mysql-action@v1.1
-        with:
-          mysql version: '8.0'
-          mysql database: 'prof_standart'
-          mysql user: 'developer'
-          mysql password: 'developer'
       - name: Run tests
         run: |
           echo "SECRET_KEY = 'django-insecure-dummy-secret'" > ./djangoProject/secrets.py
