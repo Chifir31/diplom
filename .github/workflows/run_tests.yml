@@ -20,6 +20,8 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
+      - name: Shutdown Ubuntu MySQL (SUDO)
+        run: sudo service mysql stop
       - name: install mysql
         uses: mirromutth/mysql-action@v1.1
         with:
