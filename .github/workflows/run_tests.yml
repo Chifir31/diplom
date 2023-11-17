@@ -27,15 +27,14 @@ jobs:
         with:
           host port: 3306
           container port: 3306
-          character set server: 'utf8mb4'
-          collation server: 'utf8_general_ci'
           mysql version: '8.0'
           mysql database: 'prof_standart'
-          mysql root password: 'root'
+          mysql user: 'developer'
+          mysql password: 'developer'
       - name: Run tests
         run: |
           echo "SECRET_KEY = 'django-insecure-dummy-secret'" > ./djangoProject/secrets.py
-          echo "USER = 'root'" >> ./djangoProject/secrets.py
-          echo "PASSWORD = 'root'" >> ./djangoProject/secrets.py
+          echo "USER = 'developer'" >> ./djangoProject/secrets.py
+          echo "PASSWORD = 'developer'" >> ./djangoProject/secrets.py
           coverage run manage.py test
           coverage report
