@@ -25,6 +25,5 @@ jobs:
           echo "SECRET_KEY = 'django-insecure-dummy-secret'" > ./djangoProject/secrets.py
           echo "USER = 'root'" >> ./djangoProject/secrets.py
           echo "PASSWORD = 'root'" >> ./djangoProject/secrets.py
-          cd ./app
           coverage run manage.py test
           coverage report
