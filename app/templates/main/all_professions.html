@@ -1,0 +1,26 @@
+{% extends 'main/base.html'%}
+
+{%block head%}
+    <style>
+        .ref_prof {
+            color: black;
+            border: none;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .ref_prof:hover {
+            color: #D5B45B;
+        }
+    </style>
+{% endblock %}
+
+
+{%block content%}
+<h2>Профессии</h2>
+<hr>
+{% for prof in profs %}
+<div>
+    <a href="/profession?prof={{prof.nameProf}}" class="ref_prof">{{prof.nameProf}}</a>
+</div>
+{%endfor%}
+{% endblock %}

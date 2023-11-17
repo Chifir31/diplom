@@ -1,0 +1,68 @@
+{% extends 'main/base.html'%}
+
+{%block head%}
+    <style>
+
+    </style>
+{% endblock %}
+
+{%block content%}
+<h2>{{prof1}} и {{prof2}}</h2>
+<hr>
+{% if identicalK %}
+    <h3>Общие необходимые знания</h3>
+    {% for k in identicalK %}
+        <div><p> - {{k}}</p></div>
+    {% endfor %}
+{% else %}
+    <h3 style="color: dimgray"> Общих необходимых знаний не найдено</h3>
+{% endif %}
+
+{% if identicalS %}
+    <h3>Общие необходимые умения</h3>
+    {% for s in identicalS %}
+        <div><p> - {{s}}</p></div>
+    {% endfor %}
+{% else %}
+    <h3 style="color: dimgray"> Общих необходимых умений не найдено</h3>
+{% endif %}
+
+{% if similarK %}
+    <br>
+    <h3>Схожие необходимые знания</h3>
+    <table>
+        <tr>
+            <th>{{prof1}}</th>
+            <th>{{prof2}}</th>
+        </tr>
+        {% for k in similarK %}
+        <tr>
+            <td>- {{k.form1}}</td>
+            <td>- {{k.form2}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+{% else %}
+    <h3 style="color: dimgray"> Схожие необходимых знаний не найдено</h3>
+{% endif %}
+
+{% if similarS %}
+    <br>
+    <h3>Схожие необходимые умения</h3>
+    <table>
+        <tr>
+            <th>{{prof1}}</th>
+            <th>{{prof2}}</th>
+        </tr>
+        {% for s in similarS %}
+        <tr>
+            <td>- {{s.form1}}</td>
+            <td>- {{s.form2}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+{% else %}
+    <h3 style="color: dimgray"> Схожие необходимых умений не найдено</h3>
+{% endif %}
+
+{% endblock %}

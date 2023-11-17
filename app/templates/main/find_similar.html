@@ -1,0 +1,32 @@
+{% extends 'main/base.html'%}
+
+{%block head%}
+    <style>
+        label {
+            font-size: 15pt;
+        }
+        input {
+            padding: 5px 5px;
+            margin-top: 5px;
+            font-size: 13pt;
+            width: 350px;
+        }
+        .divclass {
+            display: flex;
+            justify-content: flex-start;
+            padding-left: 14px;
+        }
+    </style>
+{% endblock %}
+{%block content%}
+    <h2>Поиск по знаниям и умениям</h2>
+    <hr>
+<div class="divclass">
+    <form>
+        <div style="padding: 20px 0">
+            <input type="text" name="similar" id="similar" placeholder="Наименование знания или умения">
+        </div>
+        <button type="submit" class="btn default">Найти похожие</button>
+    </form>
+</div>
+{% endblock %}

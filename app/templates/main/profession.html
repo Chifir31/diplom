@@ -1,0 +1,17 @@
+{% extends 'main/base.html'%}
+
+{%block head%}
+{% endblock %}
+
+{%block content%}
+<h2>{{prof}}</h2>
+<hr>
+<h3> Необходимые знания</h3>
+{% for knowledge in knowledges %}
+<div><p> - {{knowledge}}</p></div>
+{% endfor %}
+<h3> </br>Необходимые умения</h3>
+{% for skill in skills %}
+<div><p> - {{skill}}</p></div>
+{% endfor %}
+{% endblock %}

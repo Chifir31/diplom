@@ -1,0 +1,65 @@
+{% extends 'main/base.html'%}
+
+{%block head%}
+    <style>
+        .ref_prof {
+            color: black;
+            border: none;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .ref_prof:hover {
+            color: #D5B45B;
+        }
+    </style>
+{% endblock %}
+
+{%block content%}
+<h2>{{similar}}</h2>
+<hr>
+
+{% if similarK %}
+    <h3>Схожие необходимые знания</h3>
+    <table>
+        <tr>
+            <th>Необходимое знание</th>
+            <th>Профессии</th>
+        </tr>
+        {% for k in similarK %}
+        <tr>
+            <td>{{k.form}}</td>
+            <td>
+            {% for kk in k.profs %}
+                <div><a href="/profession?prof={{kk}}" class="ref_prof" >{{kk}}</a></div>
+            {% endfor %}
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+{% else %}
+    <h3 style="color: dimgray">Схожих необходимых знаний не найдено</h3>
+{% endif %}
+<br>
+{% if similarS %}
+    <h3>Схожие необходимые умения</h3>
+    <table>
+        <tr>
+            <th>Необходимое умение</th>
+            <th>Профессии</th>
+        </tr>
+        {% for s in similarS %}
+        <tr>
+            <td>{{s.form}}</td>
+            <td>
+            {% for ss in s.profs %}
+                <div><a href="/profession?prof={{ss}}" class="ref_prof">{{ss}}</a></div>
+            {% endfor %}
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+{% else %}
+    <h3 style="color: dimgray">Схожих необходимых знаний не найдено</h3>
+{% endif %}
+
+{% endblock %}

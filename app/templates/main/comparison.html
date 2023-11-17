@@ -1,0 +1,64 @@
+{% extends 'main/base.html'%}
+
+{%block head%}
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <style>
+        label {
+            font-size: 15pt;
+        }
+        input {
+            padding: 5px 5px;
+            margin-top: 5px;
+            font-size: 13pt;
+            width: 350px;
+        }
+        .divclass {
+            display: flex;
+            justify-content: flex-start;
+            padding-left: 14px;
+        }
+    </style>
+{% endblock %}
+{%block content%}
+    <h2>Сравнение профессий</h2>
+    <hr>
+<div class="divclass">
+    <form>
+        <div style="padding: 10px 0">
+            {% if error %}
+                <input type="text" name="prof1" id="prof1" placeholder="Название профессии 1" value={{prof1}}>
+            {% else %}
+                <input type="text" name="prof1" id="prof1" placeholder="Название профессии 1">
+            {% endif %}
+        </div>
+        <div style="padding-bottom: 20px">
+            {% if error %}
+                <input type="text" name="prof2" id="prof2" placeholder="Название профессии 2" value={{prof2}}>
+            {% else %}
+                <input type="text" name="prof2" id="prof2" placeholder="Название профессии 2">
+            {% endif %}
+        </div>
+        {% if error %}
+            <div style="color: red; padding-bottom: 20px"> Введенные профессии не найдены! </div>
+        {% endif %}
+        <button type="submit" class="btn default">Cравнить</button>
+    </form>
+
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#prof1").autocomplete({
+      source: '{% url "comparison" %}'
+    });
+  });
+  </script>
+  <script>
+  $( function() {
+    $( "#prof2").autocomplete({
+      source: '{% url "comparison" %}'
+    });
+  });
+  </script>
+{% endblock %}
