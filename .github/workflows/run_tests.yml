@@ -25,8 +25,6 @@ jobs:
       - name: install mysql
         uses: mirromutth/mysql-action@v1.1
         with:
-          host port: 3306
-          container port: 3306
           mysql version: '8.0'
           mysql database: 'prof_standart'
           mysql user: 'developer'
