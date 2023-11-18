@@ -11,14 +11,14 @@ def index(request):
 
 
 def all_professions(request):
-    profs = Profession.objects.order_by('nameProf')
+    profs = Profession.objects.order_by('professionName')
     return render(request, 'main/all_professions.html', {'profs': profs})
 
 
 def profession(request):
     nameProf = request.GET.get('prof')
     current_profession = Wwm.get_profession_id_by_name(nameProf)
-    necKnowledge, necSkills = Wwm.getSkillsKnowledge(current_profession.idProf)
+    necKnowledge, necSkills = Wwm.getSkillsKnowledge(current_profession.idProfession)
 
     return render(request, 'main/profession.html', {'prof': nameProf, 'skills': necSkills, 'knowledges': necKnowledge})
 
@@ -35,8 +35,8 @@ def comparison(request):
             return render(request, 'main/comparison.html',
                           {'error': True, 'prof1': first_profession, 'prof2': second_profession})
 
-        necKnowledge1, necSkill1 = Wwm.getSkillsKnowledge(qs1.idProf)
-        necKnowledge2, necSkill2 = Wwm.getSkillsKnowledge(qs2.idProf)
+        necKnowledge1, necSkill1 = Wwm.getSkillsKnowledge(qs1.idProfession)
+        necKnowledge2, necSkill2 = Wwm.getSkillsKnowledge(qs2.idProfession)
 
         compOfForm = Comparison_Of_Formulations()
         similarKnowledge, identicalKnowledge = compOfForm.find_similar_formulationsV1(necKnowledge1, necKnowledge2)
@@ -48,8 +48,8 @@ def comparison(request):
                        "similarK": similarKnowledge, "similarS": similarSkills})
 
     if 'term' in request.GET:
-        qs = Profession.objects.filter(nameProf__icontains=request.GET.get('term'))
-        professions = [prof.nameProf for prof in qs]
+        qs = Profession.objects.filter(professionName__icontains=request.GET.get('term'))
+        professions = [prof.professionName for prof in qs]
         return JsonResponse(professions, safe=False)
     return render(request, 'main/comparison.html')
 

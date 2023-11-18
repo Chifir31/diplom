@@ -1,0 +1,4012 @@
+[
+  {
+    "idContainsFunc": 1,
+    "idGenLaborFunc": 1,
+    "idLaborFunc": 1
+  },
+  {
+    "idContainsFunc": 2,
+    "idGenLaborFunc": 1,
+    "idLaborFunc": 2
+  },
+  {
+    "idContainsFunc": 3,
+    "idGenLaborFunc": 1,
+    "idLaborFunc": 3
+  },
+  {
+    "idContainsFunc": 4,
+    "idGenLaborFunc": 1,
+    "idLaborFunc": 4
+  },
+  {
+    "idContainsFunc": 5,
+    "idGenLaborFunc": 1,
+    "idLaborFunc": 5
+  },
+  {
+    "idContainsFunc": 6,
+    "idGenLaborFunc": 2,
+    "idLaborFunc": 6
+  },
+  {
+    "idContainsFunc": 7,
+    "idGenLaborFunc": 2,
+    "idLaborFunc": 7
+  },
+  {
+    "idContainsFunc": 8,
+    "idGenLaborFunc": 2,
+    "idLaborFunc": 8
+  },
+  {
+    "idContainsFunc": 9,
+    "idGenLaborFunc": 2,
+    "idLaborFunc": 9
+  },
+  {
+    "idContainsFunc": 10,
+    "idGenLaborFunc": 2,
+    "idLaborFunc": 10
+  },
+  {
+    "idContainsFunc": 11,
+    "idGenLaborFunc": 2,
+    "idLaborFunc": 11
+  },
+  {
+    "idContainsFunc": 12,
+    "idGenLaborFunc": 3,
+    "idLaborFunc": 12
+  },
+  {
+    "idContainsFunc": 13,
+    "idGenLaborFunc": 3,
+    "idLaborFunc": 13
+  },
+  {
+    "idContainsFunc": 14,
+    "idGenLaborFunc": 4,
+    "idLaborFunc": 14
+  },
+  {
+    "idContainsFunc": 15,
+    "idGenLaborFunc": 4,
+    "idLaborFunc": 15
+  },
+  {
+    "idContainsFunc": 16,
+    "idGenLaborFunc": 4,
+    "idLaborFunc": 16
+  },
+  {
+    "idContainsFunc": 17,
+    "idGenLaborFunc": 5,
+    "idLaborFunc": 17
+  },
+  {
+    "idContainsFunc": 18,
+    "idGenLaborFunc": 5,
+    "idLaborFunc": 18
+  },
+  {
+    "idContainsFunc": 19,
+    "idGenLaborFunc": 5,
+    "idLaborFunc": 19
+  },
+  {
+    "idContainsFunc": 20,
+    "idGenLaborFunc": 5,
+    "idLaborFunc": 20
+  },
+  {
+    "idContainsFunc": 21,
+    "idGenLaborFunc": 5,
+    "idLaborFunc": 21
+  },
+  {
+    "idContainsFunc": 22,
+    "idGenLaborFunc": 6,
+    "idLaborFunc": 22
+  },
+  {
+    "idContainsFunc": 23,
+    "idGenLaborFunc": 6,
+    "idLaborFunc": 23
+  },
+  {
+    "idContainsFunc": 24,
+    "idGenLaborFunc": 6,
+    "idLaborFunc": 24
+  },
+  {
+    "idContainsFunc": 25,
+    "idGenLaborFunc": 6,
+    "idLaborFunc": 25
+  },
+  {
+    "idContainsFunc": 26,
+    "idGenLaborFunc": 6,
+    "idLaborFunc": 26
+  },
+  {
+    "idContainsFunc": 27,
+    "idGenLaborFunc": 7,
+    "idLaborFunc": 27
+  },
+  {
+    "idContainsFunc": 28,
+    "idGenLaborFunc": 7,
+    "idLaborFunc": 28
+  },
+  {
+    "idContainsFunc": 29,
+    "idGenLaborFunc": 7,
+    "idLaborFunc": 29
+  },
+  {
+    "idContainsFunc": 30,
+    "idGenLaborFunc": 7,
+    "idLaborFunc": 30
+  },
+  {
+    "idContainsFunc": 31,
+    "idGenLaborFunc": 7,
+    "idLaborFunc": 31
+  },
+  {
+    "idContainsFunc": 32,
+    "idGenLaborFunc": 8,
+    "idLaborFunc": 32
+  },
+  {
+    "idContainsFunc": 33,
+    "idGenLaborFunc": 8,
+    "idLaborFunc": 33
+  },
+  {
+    "idContainsFunc": 34,
+    "idGenLaborFunc": 8,
+    "idLaborFunc": 34
+  },
+  {
+    "idContainsFunc": 35,
+    "idGenLaborFunc": 8,
+    "idLaborFunc": 35
+  },
+  {
+    "idContainsFunc": 36,
+    "idGenLaborFunc": 8,
+    "idLaborFunc": 36
+  },
+  {
+    "idContainsFunc": 37,
+    "idGenLaborFunc": 9,
+    "idLaborFunc": 37
+  },
+  {
+    "idContainsFunc": 38,
+    "idGenLaborFunc": 9,
+    "idLaborFunc": 38
+  },
+  {
+    "idContainsFunc": 39,
+    "idGenLaborFunc": 9,
+    "idLaborFunc": 39
+  },
+  {
+    "idContainsFunc": 40,
+    "idGenLaborFunc": 9,
+    "idLaborFunc": 40
+  },
+  {
+    "idContainsFunc": 41,
+    "idGenLaborFunc": 9,
+    "idLaborFunc": 41
+  },
+  {
+    "idContainsFunc": 42,
+    "idGenLaborFunc": 9,
+    "idLaborFunc": 42
+  },
+  {
+    "idContainsFunc": 43,
+    "idGenLaborFunc": 10,
+    "idLaborFunc": 43
+  },
+  {
+    "idContainsFunc": 44,
+    "idGenLaborFunc": 10,
+    "idLaborFunc": 44
+  },
+  {
+    "idContainsFunc": 45,
+    "idGenLaborFunc": 10,
+    "idLaborFunc": 45
+  },
+  {
+    "idContainsFunc": 46,
+    "idGenLaborFunc": 10,
+    "idLaborFunc": 46
+  },
+  {
+    "idContainsFunc": 47,
+    "idGenLaborFunc": 11,
+    "idLaborFunc": 47
+  },
+  {
+    "idContainsFunc": 48,
+    "idGenLaborFunc": 11,
+    "idLaborFunc": 48
+  },
+  {
+    "idContainsFunc": 49,
+    "idGenLaborFunc": 11,
+    "idLaborFunc": 49
+  },
+  {
+    "idContainsFunc": 50,
+    "idGenLaborFunc": 11,
+    "idLaborFunc": 50
+  },
+  {
+    "idContainsFunc": 51,
+    "idGenLaborFunc": 11,
+    "idLaborFunc": 51
+  },
+  {
+    "idContainsFunc": 52,
+    "idGenLaborFunc": 12,
+    "idLaborFunc": 52
+  },
+  {
+    "idContainsFunc": 53,
+    "idGenLaborFunc": 12,
+    "idLaborFunc": 53
+  },
+  {
+    "idContainsFunc": 54,
+    "idGenLaborFunc": 12,
+    "idLaborFunc": 54
+  },
+  {
+    "idContainsFunc": 55,
+    "idGenLaborFunc": 12,
+    "idLaborFunc": 55
+  },
+  {
+    "idContainsFunc": 56,
+    "idGenLaborFunc": 12,
+    "idLaborFunc": 56
+  },
+  {
+    "idContainsFunc": 57,
+    "idGenLaborFunc": 12,
+    "idLaborFunc": 57
+  },
+  {
+    "idContainsFunc": 58,
+    "idGenLaborFunc": 12,
+    "idLaborFunc": 58
+  },
+  {
+    "idContainsFunc": 59,
+    "idGenLaborFunc": 13,
+    "idLaborFunc": 59
+  },
+  {
+    "idContainsFunc": 60,
+    "idGenLaborFunc": 13,
+    "idLaborFunc": 60
+  },
+  {
+    "idContainsFunc": 61,
+    "idGenLaborFunc": 13,
+    "idLaborFunc": 61
+  },
+  {
+    "idContainsFunc": 62,
+    "idGenLaborFunc": 13,
+    "idLaborFunc": 62
+  },
+  {
+    "idContainsFunc": 63,
+    "idGenLaborFunc": 13,
+    "idLaborFunc": 63
+  },
+  {
+    "idContainsFunc": 64,
+    "idGenLaborFunc": 13,
+    "idLaborFunc": 64
+  },
+  {
+    "idContainsFunc": 65,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 65
+  },
+  {
+    "idContainsFunc": 66,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 66
+  },
+  {
+    "idContainsFunc": 67,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 67
+  },
+  {
+    "idContainsFunc": 68,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 68
+  },
+  {
+    "idContainsFunc": 69,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 69
+  },
+  {
+    "idContainsFunc": 70,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 70
+  },
+  {
+    "idContainsFunc": 71,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 71
+  },
+  {
+    "idContainsFunc": 72,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 72
+  },
+  {
+    "idContainsFunc": 73,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 73
+  },
+  {
+    "idContainsFunc": 74,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 74
+  },
+  {
+    "idContainsFunc": 75,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 75
+  },
+  {
+    "idContainsFunc": 76,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 76
+  },
+  {
+    "idContainsFunc": 77,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 77
+  },
+  {
+    "idContainsFunc": 78,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 78
+  },
+  {
+    "idContainsFunc": 79,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 79
+  },
+  {
+    "idContainsFunc": 80,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 80
+  },
+  {
+    "idContainsFunc": 81,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 81
+  },
+  {
+    "idContainsFunc": 82,
+    "idGenLaborFunc": 14,
+    "idLaborFunc": 82
+  },
+  {
+    "idContainsFunc": 83,
+    "idGenLaborFunc": 15,
+    "idLaborFunc": 83
+  },
+  {
+    "idContainsFunc": 84,
+    "idGenLaborFunc": 15,
+    "idLaborFunc": 84
+  },
+  {
+    "idContainsFunc": 85,
+    "idGenLaborFunc": 15,
+    "idLaborFunc": 85
+  },
+  {
+    "idContainsFunc": 86,
+    "idGenLaborFunc": 15,
+    "idLaborFunc": 86
+  },
+  {
+    "idContainsFunc": 87,
+    "idGenLaborFunc": 15,
+    "idLaborFunc": 87
+  },
+  {
+    "idContainsFunc": 88,
+    "idGenLaborFunc": 15,
+    "idLaborFunc": 88
+  },
+  {
+    "idContainsFunc": 89,
+    "idGenLaborFunc": 16,
+    "idLaborFunc": 89
+  },
+  {
+    "idContainsFunc": 90,
+    "idGenLaborFunc": 16,
+    "idLaborFunc": 90
+  },
+  {
+    "idContainsFunc": 91,
+    "idGenLaborFunc": 16,
+    "idLaborFunc": 91
+  },
+  {
+    "idContainsFunc": 92,
+    "idGenLaborFunc": 16,
+    "idLaborFunc": 92
+  },
+  {
+    "idContainsFunc": 93,
+    "idGenLaborFunc": 16,
+    "idLaborFunc": 93
+  },
+  {
+    "idContainsFunc": 94,
+    "idGenLaborFunc": 16,
+    "idLaborFunc": 94
+  },
+  {
+    "idContainsFunc": 95,
+    "idGenLaborFunc": 16,
+    "idLaborFunc": 95
+  },
+  {
+    "idContainsFunc": 96,
+    "idGenLaborFunc": 17,
+    "idLaborFunc": 96
+  },
+  {
+    "idContainsFunc": 97,
+    "idGenLaborFunc": 17,
+    "idLaborFunc": 97
+  },
+  {
+    "idContainsFunc": 98,
+    "idGenLaborFunc": 17,
+    "idLaborFunc": 98
+  },
+  {
+    "idContainsFunc": 99,
+    "idGenLaborFunc": 17,
+    "idLaborFunc": 99
+  },
+  {
+    "idContainsFunc": 100,
+    "idGenLaborFunc": 18,
+    "idLaborFunc": 100
+  },
+  {
+    "idContainsFunc": 101,
+    "idGenLaborFunc": 18,
+    "idLaborFunc": 101
+  },
+  {
+    "idContainsFunc": 102,
+    "idGenLaborFunc": 18,
+    "idLaborFunc": 102
+  },
+  {
+    "idContainsFunc": 103,
+    "idGenLaborFunc": 18,
+    "idLaborFunc": 103
+  },
+  {
+    "idContainsFunc": 104,
+    "idGenLaborFunc": 18,
+    "idLaborFunc": 104
+  },
+  {
+    "idContainsFunc": 105,
+    "idGenLaborFunc": 18,
+    "idLaborFunc": 105
+  },
+  {
+    "idContainsFunc": 106,
+    "idGenLaborFunc": 19,
+    "idLaborFunc": 106
+  },
+  {
+    "idContainsFunc": 107,
+    "idGenLaborFunc": 19,
+    "idLaborFunc": 107
+  },
+  {
+    "idContainsFunc": 108,
+    "idGenLaborFunc": 19,
+    "idLaborFunc": 108
+  },
+  {
+    "idContainsFunc": 109,
+    "idGenLaborFunc": 19,
+    "idLaborFunc": 109
+  },
+  {
+    "idContainsFunc": 110,
+    "idGenLaborFunc": 19,
+    "idLaborFunc": 110
+  },
+  {
+    "idContainsFunc": 111,
+    "idGenLaborFunc": 19,
+    "idLaborFunc": 111
+  },
+  {
+    "idContainsFunc": 112,
+    "idGenLaborFunc": 19,
+    "idLaborFunc": 112
+  },
+  {
+    "idContainsFunc": 113,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 113
+  },
+  {
+    "idContainsFunc": 114,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 114
+  },
+  {
+    "idContainsFunc": 115,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 115
+  },
+  {
+    "idContainsFunc": 116,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 116
+  },
+  {
+    "idContainsFunc": 117,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 117
+  },
+  {
+    "idContainsFunc": 118,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 118
+  },
+  {
+    "idContainsFunc": 119,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 119
+  },
+  {
+    "idContainsFunc": 120,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 120
+  },
+  {
+    "idContainsFunc": 121,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 121
+  },
+  {
+    "idContainsFunc": 122,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 122
+  },
+  {
+    "idContainsFunc": 123,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 123
+  },
+  {
+    "idContainsFunc": 124,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 124
+  },
+  {
+    "idContainsFunc": 125,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 125
+  },
+  {
+    "idContainsFunc": 126,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 126
+  },
+  {
+    "idContainsFunc": 127,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 127
+  },
+  {
+    "idContainsFunc": 128,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 128
+  },
+  {
+    "idContainsFunc": 129,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 129
+  },
+  {
+    "idContainsFunc": 130,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 130
+  },
+  {
+    "idContainsFunc": 131,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 131
+  },
+  {
+    "idContainsFunc": 132,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 132
+  },
+  {
+    "idContainsFunc": 133,
+    "idGenLaborFunc": 20,
+    "idLaborFunc": 133
+  },
+  {
+    "idContainsFunc": 134,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 134
+  },
+  {
+    "idContainsFunc": 135,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 135
+  },
+  {
+    "idContainsFunc": 136,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 136
+  },
+  {
+    "idContainsFunc": 137,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 137
+  },
+  {
+    "idContainsFunc": 138,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 138
+  },
+  {
+    "idContainsFunc": 139,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 139
+  },
+  {
+    "idContainsFunc": 140,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 140
+  },
+  {
+    "idContainsFunc": 141,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 141
+  },
+  {
+    "idContainsFunc": 142,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 142
+  },
+  {
+    "idContainsFunc": 143,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 143
+  },
+  {
+    "idContainsFunc": 144,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 144
+  },
+  {
+    "idContainsFunc": 145,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 145
+  },
+  {
+    "idContainsFunc": 146,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 146
+  },
+  {
+    "idContainsFunc": 147,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 147
+  },
+  {
+    "idContainsFunc": 148,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 148
+  },
+  {
+    "idContainsFunc": 149,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 149
+  },
+  {
+    "idContainsFunc": 150,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 150
+  },
+  {
+    "idContainsFunc": 151,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 151
+  },
+  {
+    "idContainsFunc": 152,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 152
+  },
+  {
+    "idContainsFunc": 153,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 153
+  },
+  {
+    "idContainsFunc": 154,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 154
+  },
+  {
+    "idContainsFunc": 155,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 155
+  },
+  {
+    "idContainsFunc": 156,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 156
+  },
+  {
+    "idContainsFunc": 157,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 157
+  },
+  {
+    "idContainsFunc": 158,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 158
+  },
+  {
+    "idContainsFunc": 159,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 159
+  },
+  {
+    "idContainsFunc": 160,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 160
+  },
+  {
+    "idContainsFunc": 161,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 161
+  },
+  {
+    "idContainsFunc": 162,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 162
+  },
+  {
+    "idContainsFunc": 163,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 163
+  },
+  {
+    "idContainsFunc": 164,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 164
+  },
+  {
+    "idContainsFunc": 165,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 165
+  },
+  {
+    "idContainsFunc": 166,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 166
+  },
+  {
+    "idContainsFunc": 167,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 167
+  },
+  {
+    "idContainsFunc": 168,
+    "idGenLaborFunc": 21,
+    "idLaborFunc": 168
+  },
+  {
+    "idContainsFunc": 169,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 169
+  },
+  {
+    "idContainsFunc": 170,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 170
+  },
+  {
+    "idContainsFunc": 171,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 171
+  },
+  {
+    "idContainsFunc": 172,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 172
+  },
+  {
+    "idContainsFunc": 173,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 173
+  },
+  {
+    "idContainsFunc": 174,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 174
+  },
+  {
+    "idContainsFunc": 175,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 175
+  },
+  {
+    "idContainsFunc": 176,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 176
+  },
+  {
+    "idContainsFunc": 177,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 177
+  },
+  {
+    "idContainsFunc": 178,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 178
+  },
+  {
+    "idContainsFunc": 179,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 179
+  },
+  {
+    "idContainsFunc": 180,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 180
+  },
+  {
+    "idContainsFunc": 181,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 181
+  },
+  {
+    "idContainsFunc": 182,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 182
+  },
+  {
+    "idContainsFunc": 183,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 183
+  },
+  {
+    "idContainsFunc": 184,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 184
+  },
+  {
+    "idContainsFunc": 185,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 185
+  },
+  {
+    "idContainsFunc": 186,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 186
+  },
+  {
+    "idContainsFunc": 187,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 187
+  },
+  {
+    "idContainsFunc": 188,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 188
+  },
+  {
+    "idContainsFunc": 189,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 189
+  },
+  {
+    "idContainsFunc": 190,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 190
+  },
+  {
+    "idContainsFunc": 191,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 191
+  },
+  {
+    "idContainsFunc": 192,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 192
+  },
+  {
+    "idContainsFunc": 193,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 193
+  },
+  {
+    "idContainsFunc": 194,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 194
+  },
+  {
+    "idContainsFunc": 195,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 195
+  },
+  {
+    "idContainsFunc": 196,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 196
+  },
+  {
+    "idContainsFunc": 197,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 197
+  },
+  {
+    "idContainsFunc": 198,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 198
+  },
+  {
+    "idContainsFunc": 199,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 199
+  },
+  {
+    "idContainsFunc": 200,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 200
+  },
+  {
+    "idContainsFunc": 201,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 201
+  },
+  {
+    "idContainsFunc": 202,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 202
+  },
+  {
+    "idContainsFunc": 203,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 203
+  },
+  {
+    "idContainsFunc": 204,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 204
+  },
+  {
+    "idContainsFunc": 205,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 205
+  },
+  {
+    "idContainsFunc": 206,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 206
+  },
+  {
+    "idContainsFunc": 207,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 207
+  },
+  {
+    "idContainsFunc": 208,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 208
+  },
+  {
+    "idContainsFunc": 209,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 209
+  },
+  {
+    "idContainsFunc": 210,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 210
+  },
+  {
+    "idContainsFunc": 211,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 211
+  },
+  {
+    "idContainsFunc": 212,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 212
+  },
+  {
+    "idContainsFunc": 213,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 213
+  },
+  {
+    "idContainsFunc": 214,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 214
+  },
+  {
+    "idContainsFunc": 215,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 215
+  },
+  {
+    "idContainsFunc": 216,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 216
+  },
+  {
+    "idContainsFunc": 217,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 217
+  },
+  {
+    "idContainsFunc": 218,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 218
+  },
+  {
+    "idContainsFunc": 219,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 219
+  },
+  {
+    "idContainsFunc": 220,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 220
+  },
+  {
+    "idContainsFunc": 221,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 221
+  },
+  {
+    "idContainsFunc": 222,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 222
+  },
+  {
+    "idContainsFunc": 223,
+    "idGenLaborFunc": 22,
+    "idLaborFunc": 223
+  },
+  {
+    "idContainsFunc": 224,
+    "idGenLaborFunc": 23,
+    "idLaborFunc": 224
+  },
+  {
+    "idContainsFunc": 225,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 225
+  },
+  {
+    "idContainsFunc": 226,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 226
+  },
+  {
+    "idContainsFunc": 227,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 227
+  },
+  {
+    "idContainsFunc": 228,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 228
+  },
+  {
+    "idContainsFunc": 229,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 229
+  },
+  {
+    "idContainsFunc": 230,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 230
+  },
+  {
+    "idContainsFunc": 231,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 231
+  },
+  {
+    "idContainsFunc": 232,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 232
+  },
+  {
+    "idContainsFunc": 233,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 233
+  },
+  {
+    "idContainsFunc": 234,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 234
+  },
+  {
+    "idContainsFunc": 235,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 235
+  },
+  {
+    "idContainsFunc": 236,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 236
+  },
+  {
+    "idContainsFunc": 237,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 237
+  },
+  {
+    "idContainsFunc": 238,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 238
+  },
+  {
+    "idContainsFunc": 239,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 239
+  },
+  {
+    "idContainsFunc": 240,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 240
+  },
+  {
+    "idContainsFunc": 241,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 241
+  },
+  {
+    "idContainsFunc": 242,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 242
+  },
+  {
+    "idContainsFunc": 243,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 243
+  },
+  {
+    "idContainsFunc": 244,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 244
+  },
+  {
+    "idContainsFunc": 245,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 245
+  },
+  {
+    "idContainsFunc": 246,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 246
+  },
+  {
+    "idContainsFunc": 247,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 247
+  },
+  {
+    "idContainsFunc": 248,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 248
+  },
+  {
+    "idContainsFunc": 249,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 249
+  },
+  {
+    "idContainsFunc": 250,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 250
+  },
+  {
+    "idContainsFunc": 251,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 251
+  },
+  {
+    "idContainsFunc": 252,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 252
+  },
+  {
+    "idContainsFunc": 253,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 253
+  },
+  {
+    "idContainsFunc": 254,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 254
+  },
+  {
+    "idContainsFunc": 255,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 255
+  },
+  {
+    "idContainsFunc": 256,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 256
+  },
+  {
+    "idContainsFunc": 257,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 257
+  },
+  {
+    "idContainsFunc": 258,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 258
+  },
+  {
+    "idContainsFunc": 259,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 259
+  },
+  {
+    "idContainsFunc": 260,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 260
+  },
+  {
+    "idContainsFunc": 261,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 261
+  },
+  {
+    "idContainsFunc": 262,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 262
+  },
+  {
+    "idContainsFunc": 263,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 263
+  },
+  {
+    "idContainsFunc": 264,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 264
+  },
+  {
+    "idContainsFunc": 265,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 265
+  },
+  {
+    "idContainsFunc": 266,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 266
+  },
+  {
+    "idContainsFunc": 267,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 267
+  },
+  {
+    "idContainsFunc": 268,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 268
+  },
+  {
+    "idContainsFunc": 269,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 269
+  },
+  {
+    "idContainsFunc": 270,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 270
+  },
+  {
+    "idContainsFunc": 271,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 271
+  },
+  {
+    "idContainsFunc": 272,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 272
+  },
+  {
+    "idContainsFunc": 273,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 273
+  },
+  {
+    "idContainsFunc": 274,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 274
+  },
+  {
+    "idContainsFunc": 275,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 275
+  },
+  {
+    "idContainsFunc": 276,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 276
+  },
+  {
+    "idContainsFunc": 277,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 277
+  },
+  {
+    "idContainsFunc": 278,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 278
+  },
+  {
+    "idContainsFunc": 279,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 279
+  },
+  {
+    "idContainsFunc": 280,
+    "idGenLaborFunc": 24,
+    "idLaborFunc": 280
+  },
+  {
+    "idContainsFunc": 281,
+    "idGenLaborFunc": 25,
+    "idLaborFunc": 281
+  },
+  {
+    "idContainsFunc": 282,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 282
+  },
+  {
+    "idContainsFunc": 283,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 283
+  },
+  {
+    "idContainsFunc": 284,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 284
+  },
+  {
+    "idContainsFunc": 285,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 285
+  },
+  {
+    "idContainsFunc": 286,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 286
+  },
+  {
+    "idContainsFunc": 287,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 287
+  },
+  {
+    "idContainsFunc": 288,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 288
+  },
+  {
+    "idContainsFunc": 289,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 289
+  },
+  {
+    "idContainsFunc": 290,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 290
+  },
+  {
+    "idContainsFunc": 291,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 291
+  },
+  {
+    "idContainsFunc": 292,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 292
+  },
+  {
+    "idContainsFunc": 293,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 293
+  },
+  {
+    "idContainsFunc": 294,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 294
+  },
+  {
+    "idContainsFunc": 295,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 295
+  },
+  {
+    "idContainsFunc": 296,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 296
+  },
+  {
+    "idContainsFunc": 297,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 297
+  },
+  {
+    "idContainsFunc": 298,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 298
+  },
+  {
+    "idContainsFunc": 299,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 299
+  },
+  {
+    "idContainsFunc": 300,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 300
+  },
+  {
+    "idContainsFunc": 301,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 301
+  },
+  {
+    "idContainsFunc": 302,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 302
+  },
+  {
+    "idContainsFunc": 303,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 303
+  },
+  {
+    "idContainsFunc": 304,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 304
+  },
+  {
+    "idContainsFunc": 305,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 305
+  },
+  {
+    "idContainsFunc": 306,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 306
+  },
+  {
+    "idContainsFunc": 307,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 307
+  },
+  {
+    "idContainsFunc": 308,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 308
+  },
+  {
+    "idContainsFunc": 309,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 309
+  },
+  {
+    "idContainsFunc": 310,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 310
+  },
+  {
+    "idContainsFunc": 311,
+    "idGenLaborFunc": 26,
+    "idLaborFunc": 311
+  },
+  {
+    "idContainsFunc": 312,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 312
+  },
+  {
+    "idContainsFunc": 313,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 313
+  },
+  {
+    "idContainsFunc": 314,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 314
+  },
+  {
+    "idContainsFunc": 315,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 315
+  },
+  {
+    "idContainsFunc": 316,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 316
+  },
+  {
+    "idContainsFunc": 317,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 317
+  },
+  {
+    "idContainsFunc": 318,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 318
+  },
+  {
+    "idContainsFunc": 319,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 319
+  },
+  {
+    "idContainsFunc": 320,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 320
+  },
+  {
+    "idContainsFunc": 321,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 321
+  },
+  {
+    "idContainsFunc": 322,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 322
+  },
+  {
+    "idContainsFunc": 323,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 323
+  },
+  {
+    "idContainsFunc": 324,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 324
+  },
+  {
+    "idContainsFunc": 325,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 325
+  },
+  {
+    "idContainsFunc": 326,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 326
+  },
+  {
+    "idContainsFunc": 327,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 327
+  },
+  {
+    "idContainsFunc": 328,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 328
+  },
+  {
+    "idContainsFunc": 329,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 329
+  },
+  {
+    "idContainsFunc": 330,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 330
+  },
+  {
+    "idContainsFunc": 331,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 331
+  },
+  {
+    "idContainsFunc": 332,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 332
+  },
+  {
+    "idContainsFunc": 333,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 333
+  },
+  {
+    "idContainsFunc": 334,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 334
+  },
+  {
+    "idContainsFunc": 335,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 335
+  },
+  {
+    "idContainsFunc": 336,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 336
+  },
+  {
+    "idContainsFunc": 337,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 337
+  },
+  {
+    "idContainsFunc": 338,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 338
+  },
+  {
+    "idContainsFunc": 339,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 339
+  },
+  {
+    "idContainsFunc": 340,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 340
+  },
+  {
+    "idContainsFunc": 341,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 341
+  },
+  {
+    "idContainsFunc": 342,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 342
+  },
+  {
+    "idContainsFunc": 343,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 343
+  },
+  {
+    "idContainsFunc": 344,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 344
+  },
+  {
+    "idContainsFunc": 345,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 345
+  },
+  {
+    "idContainsFunc": 346,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 346
+  },
+  {
+    "idContainsFunc": 347,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 347
+  },
+  {
+    "idContainsFunc": 348,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 348
+  },
+  {
+    "idContainsFunc": 349,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 349
+  },
+  {
+    "idContainsFunc": 350,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 350
+  },
+  {
+    "idContainsFunc": 351,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 351
+  },
+  {
+    "idContainsFunc": 352,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 352
+  },
+  {
+    "idContainsFunc": 353,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 353
+  },
+  {
+    "idContainsFunc": 354,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 354
+  },
+  {
+    "idContainsFunc": 355,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 355
+  },
+  {
+    "idContainsFunc": 356,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 356
+  },
+  {
+    "idContainsFunc": 357,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 357
+  },
+  {
+    "idContainsFunc": 358,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 358
+  },
+  {
+    "idContainsFunc": 359,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 359
+  },
+  {
+    "idContainsFunc": 360,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 360
+  },
+  {
+    "idContainsFunc": 361,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 361
+  },
+  {
+    "idContainsFunc": 362,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 362
+  },
+  {
+    "idContainsFunc": 363,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 363
+  },
+  {
+    "idContainsFunc": 364,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 364
+  },
+  {
+    "idContainsFunc": 365,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 365
+  },
+  {
+    "idContainsFunc": 366,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 366
+  },
+  {
+    "idContainsFunc": 367,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 367
+  },
+  {
+    "idContainsFunc": 368,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 368
+  },
+  {
+    "idContainsFunc": 369,
+    "idGenLaborFunc": 27,
+    "idLaborFunc": 369
+  },
+  {
+    "idContainsFunc": 370,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 370
+  },
+  {
+    "idContainsFunc": 371,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 371
+  },
+  {
+    "idContainsFunc": 372,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 372
+  },
+  {
+    "idContainsFunc": 373,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 373
+  },
+  {
+    "idContainsFunc": 374,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 374
+  },
+  {
+    "idContainsFunc": 375,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 375
+  },
+  {
+    "idContainsFunc": 376,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 376
+  },
+  {
+    "idContainsFunc": 377,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 377
+  },
+  {
+    "idContainsFunc": 378,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 378
+  },
+  {
+    "idContainsFunc": 379,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 379
+  },
+  {
+    "idContainsFunc": 380,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 380
+  },
+  {
+    "idContainsFunc": 381,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 381
+  },
+  {
+    "idContainsFunc": 382,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 382
+  },
+  {
+    "idContainsFunc": 383,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 383
+  },
+  {
+    "idContainsFunc": 384,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 384
+  },
+  {
+    "idContainsFunc": 385,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 385
+  },
+  {
+    "idContainsFunc": 386,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 386
+  },
+  {
+    "idContainsFunc": 387,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 387
+  },
+  {
+    "idContainsFunc": 388,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 388
+  },
+  {
+    "idContainsFunc": 389,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 389
+  },
+  {
+    "idContainsFunc": 390,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 390
+  },
+  {
+    "idContainsFunc": 391,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 391
+  },
+  {
+    "idContainsFunc": 392,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 392
+  },
+  {
+    "idContainsFunc": 393,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 393
+  },
+  {
+    "idContainsFunc": 394,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 394
+  },
+  {
+    "idContainsFunc": 395,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 395
+  },
+  {
+    "idContainsFunc": 396,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 396
+  },
+  {
+    "idContainsFunc": 397,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 397
+  },
+  {
+    "idContainsFunc": 398,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 398
+  },
+  {
+    "idContainsFunc": 399,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 399
+  },
+  {
+    "idContainsFunc": 400,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 400
+  },
+  {
+    "idContainsFunc": 401,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 401
+  },
+  {
+    "idContainsFunc": 402,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 402
+  },
+  {
+    "idContainsFunc": 403,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 403
+  },
+  {
+    "idContainsFunc": 404,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 404
+  },
+  {
+    "idContainsFunc": 405,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 405
+  },
+  {
+    "idContainsFunc": 406,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 406
+  },
+  {
+    "idContainsFunc": 407,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 407
+  },
+  {
+    "idContainsFunc": 408,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 408
+  },
+  {
+    "idContainsFunc": 409,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 409
+  },
+  {
+    "idContainsFunc": 410,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 410
+  },
+  {
+    "idContainsFunc": 411,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 411
+  },
+  {
+    "idContainsFunc": 412,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 412
+  },
+  {
+    "idContainsFunc": 413,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 413
+  },
+  {
+    "idContainsFunc": 414,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 414
+  },
+  {
+    "idContainsFunc": 415,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 415
+  },
+  {
+    "idContainsFunc": 416,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 416
+  },
+  {
+    "idContainsFunc": 417,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 417
+  },
+  {
+    "idContainsFunc": 418,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 418
+  },
+  {
+    "idContainsFunc": 419,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 419
+  },
+  {
+    "idContainsFunc": 420,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 420
+  },
+  {
+    "idContainsFunc": 421,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 421
+  },
+  {
+    "idContainsFunc": 422,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 422
+  },
+  {
+    "idContainsFunc": 423,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 423
+  },
+  {
+    "idContainsFunc": 424,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 424
+  },
+  {
+    "idContainsFunc": 425,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 425
+  },
+  {
+    "idContainsFunc": 426,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 426
+  },
+  {
+    "idContainsFunc": 427,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 427
+  },
+  {
+    "idContainsFunc": 428,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 428
+  },
+  {
+    "idContainsFunc": 429,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 429
+  },
+  {
+    "idContainsFunc": 430,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 430
+  },
+  {
+    "idContainsFunc": 431,
+    "idGenLaborFunc": 28,
+    "idLaborFunc": 431
+  },
+  {
+    "idContainsFunc": 432,
+    "idGenLaborFunc": 29,
+    "idLaborFunc": 432
+  },
+  {
+    "idContainsFunc": 433,
+    "idGenLaborFunc": 29,
+    "idLaborFunc": 433
+  },
+  {
+    "idContainsFunc": 434,
+    "idGenLaborFunc": 29,
+    "idLaborFunc": 434
+  },
+  {
+    "idContainsFunc": 435,
+    "idGenLaborFunc": 29,
+    "idLaborFunc": 435
+  },
+  {
+    "idContainsFunc": 436,
+    "idGenLaborFunc": 29,
+    "idLaborFunc": 436
+  },
+  {
+    "idContainsFunc": 437,
+    "idGenLaborFunc": 30,
+    "idLaborFunc": 437
+  },
+  {
+    "idContainsFunc": 438,
+    "idGenLaborFunc": 30,
+    "idLaborFunc": 438
+  },
+  {
+    "idContainsFunc": 439,
+    "idGenLaborFunc": 30,
+    "idLaborFunc": 439
+  },
+  {
+    "idContainsFunc": 440,
+    "idGenLaborFunc": 30,
+    "idLaborFunc": 440
+  },
+  {
+    "idContainsFunc": 441,
+    "idGenLaborFunc": 30,
+    "idLaborFunc": 441
+  },
+  {
+    "idContainsFunc": 442,
+    "idGenLaborFunc": 30,
+    "idLaborFunc": 442
+  },
+  {
+    "idContainsFunc": 443,
+    "idGenLaborFunc": 31,
+    "idLaborFunc": 443
+  },
+  {
+    "idContainsFunc": 444,
+    "idGenLaborFunc": 31,
+    "idLaborFunc": 444
+  },
+  {
+    "idContainsFunc": 445,
+    "idGenLaborFunc": 31,
+    "idLaborFunc": 445
+  },
+  {
+    "idContainsFunc": 446,
+    "idGenLaborFunc": 31,
+    "idLaborFunc": 446
+  },
+  {
+    "idContainsFunc": 447,
+    "idGenLaborFunc": 31,
+    "idLaborFunc": 447
+  },
+  {
+    "idContainsFunc": 448,
+    "idGenLaborFunc": 32,
+    "idLaborFunc": 448
+  },
+  {
+    "idContainsFunc": 449,
+    "idGenLaborFunc": 32,
+    "idLaborFunc": 449
+  },
+  {
+    "idContainsFunc": 450,
+    "idGenLaborFunc": 32,
+    "idLaborFunc": 450
+  },
+  {
+    "idContainsFunc": 451,
+    "idGenLaborFunc": 32,
+    "idLaborFunc": 451
+  },
+  {
+    "idContainsFunc": 452,
+    "idGenLaborFunc": 32,
+    "idLaborFunc": 452
+  },
+  {
+    "idContainsFunc": 453,
+    "idGenLaborFunc": 32,
+    "idLaborFunc": 453
+  },
+  {
+    "idContainsFunc": 454,
+    "idGenLaborFunc": 33,
+    "idLaborFunc": 454
+  },
+  {
+    "idContainsFunc": 455,
+    "idGenLaborFunc": 33,
+    "idLaborFunc": 455
+  },
+  {
+    "idContainsFunc": 456,
+    "idGenLaborFunc": 33,
+    "idLaborFunc": 456
+  },
+  {
+    "idContainsFunc": 457,
+    "idGenLaborFunc": 33,
+    "idLaborFunc": 457
+  },
+  {
+    "idContainsFunc": 458,
+    "idGenLaborFunc": 34,
+    "idLaborFunc": 458
+  },
+  {
+    "idContainsFunc": 459,
+    "idGenLaborFunc": 34,
+    "idLaborFunc": 459
+  },
+  {
+    "idContainsFunc": 460,
+    "idGenLaborFunc": 34,
+    "idLaborFunc": 460
+  },
+  {
+    "idContainsFunc": 461,
+    "idGenLaborFunc": 35,
+    "idLaborFunc": 461
+  },
+  {
+    "idContainsFunc": 462,
+    "idGenLaborFunc": 35,
+    "idLaborFunc": 462
+  },
+  {
+    "idContainsFunc": 463,
+    "idGenLaborFunc": 35,
+    "idLaborFunc": 463
+  },
+  {
+    "idContainsFunc": 464,
+    "idGenLaborFunc": 35,
+    "idLaborFunc": 464
+  },
+  {
+    "idContainsFunc": 465,
+    "idGenLaborFunc": 36,
+    "idLaborFunc": 465
+  },
+  {
+    "idContainsFunc": 466,
+    "idGenLaborFunc": 36,
+    "idLaborFunc": 466
+  },
+  {
+    "idContainsFunc": 467,
+    "idGenLaborFunc": 36,
+    "idLaborFunc": 467
+  },
+  {
+    "idContainsFunc": 468,
+    "idGenLaborFunc": 37,
+    "idLaborFunc": 468
+  },
+  {
+    "idContainsFunc": 469,
+    "idGenLaborFunc": 37,
+    "idLaborFunc": 469
+  },
+  {
+    "idContainsFunc": 470,
+    "idGenLaborFunc": 37,
+    "idLaborFunc": 470
+  },
+  {
+    "idContainsFunc": 471,
+    "idGenLaborFunc": 38,
+    "idLaborFunc": 471
+  },
+  {
+    "idContainsFunc": 472,
+    "idGenLaborFunc": 38,
+    "idLaborFunc": 472
+  },
+  {
+    "idContainsFunc": 473,
+    "idGenLaborFunc": 38,
+    "idLaborFunc": 473
+  },
+  {
+    "idContainsFunc": 474,
+    "idGenLaborFunc": 38,
+    "idLaborFunc": 474
+  },
+  {
+    "idContainsFunc": 475,
+    "idGenLaborFunc": 39,
+    "idLaborFunc": 475
+  },
+  {
+    "idContainsFunc": 476,
+    "idGenLaborFunc": 39,
+    "idLaborFunc": 476
+  },
+  {
+    "idContainsFunc": 477,
+    "idGenLaborFunc": 40,
+    "idLaborFunc": 477
+  },
+  {
+    "idContainsFunc": 478,
+    "idGenLaborFunc": 40,
+    "idLaborFunc": 478
+  },
+  {
+    "idContainsFunc": 479,
+    "idGenLaborFunc": 40,
+    "idLaborFunc": 479
+  },
+  {
+    "idContainsFunc": 480,
+    "idGenLaborFunc": 40,
+    "idLaborFunc": 480
+  },
+  {
+    "idContainsFunc": 481,
+    "idGenLaborFunc": 40,
+    "idLaborFunc": 481
+  },
+  {
+    "idContainsFunc": 482,
+    "idGenLaborFunc": 40,
+    "idLaborFunc": 482
+  },
+  {
+    "idContainsFunc": 483,
+    "idGenLaborFunc": 40,
+    "idLaborFunc": 483
+  },
+  {
+    "idContainsFunc": 484,
+    "idGenLaborFunc": 40,
+    "idLaborFunc": 484
+  },
+  {
+    "idContainsFunc": 485,
+    "idGenLaborFunc": 40,
+    "idLaborFunc": 485
+  },
+  {
+    "idContainsFunc": 486,
+    "idGenLaborFunc": 40,
+    "idLaborFunc": 486
+  },
+  {
+    "idContainsFunc": 487,
+    "idGenLaborFunc": 40,
+    "idLaborFunc": 487
+  },
+  {
+    "idContainsFunc": 488,
+    "idGenLaborFunc": 40,
+    "idLaborFunc": 488
+  },
+  {
+    "idContainsFunc": 489,
+    "idGenLaborFunc": 40,
+    "idLaborFunc": 489
+  },
+  {
+    "idContainsFunc": 490,
+    "idGenLaborFunc": 40,
+    "idLaborFunc": 490
+  },
+  {
+    "idContainsFunc": 491,
+    "idGenLaborFunc": 41,
+    "idLaborFunc": 491
+  },
+  {
+    "idContainsFunc": 492,
+    "idGenLaborFunc": 41,
+    "idLaborFunc": 492
+  },
+  {
+    "idContainsFunc": 493,
+    "idGenLaborFunc": 41,
+    "idLaborFunc": 493
+  },
+  {
+    "idContainsFunc": 494,
+    "idGenLaborFunc": 41,
+    "idLaborFunc": 494
+  },
+  {
+    "idContainsFunc": 495,
+    "idGenLaborFunc": 41,
+    "idLaborFunc": 495
+  },
+  {
+    "idContainsFunc": 496,
+    "idGenLaborFunc": 41,
+    "idLaborFunc": 496
+  },
+  {
+    "idContainsFunc": 497,
+    "idGenLaborFunc": 41,
+    "idLaborFunc": 497
+  },
+  {
+    "idContainsFunc": 498,
+    "idGenLaborFunc": 41,
+    "idLaborFunc": 498
+  },
+  {
+    "idContainsFunc": 499,
+    "idGenLaborFunc": 41,
+    "idLaborFunc": 499
+  },
+  {
+    "idContainsFunc": 500,
+    "idGenLaborFunc": 41,
+    "idLaborFunc": 500
+  },
+  {
+    "idContainsFunc": 501,
+    "idGenLaborFunc": 41,
+    "idLaborFunc": 501
+  },
+  {
+    "idContainsFunc": 502,
+    "idGenLaborFunc": 41,
+    "idLaborFunc": 502
+  },
+  {
+    "idContainsFunc": 503,
+    "idGenLaborFunc": 41,
+    "idLaborFunc": 503
+  },
+  {
+    "idContainsFunc": 504,
+    "idGenLaborFunc": 41,
+    "idLaborFunc": 504
+  },
+  {
+    "idContainsFunc": 505,
+    "idGenLaborFunc": 41,
+    "idLaborFunc": 505
+  },
+  {
+    "idContainsFunc": 506,
+    "idGenLaborFunc": 42,
+    "idLaborFunc": 506
+  },
+  {
+    "idContainsFunc": 507,
+    "idGenLaborFunc": 42,
+    "idLaborFunc": 507
+  },
+  {
+    "idContainsFunc": 508,
+    "idGenLaborFunc": 42,
+    "idLaborFunc": 508
+  },
+  {
+    "idContainsFunc": 509,
+    "idGenLaborFunc": 42,
+    "idLaborFunc": 509
+  },
+  {
+    "idContainsFunc": 510,
+    "idGenLaborFunc": 42,
+    "idLaborFunc": 510
+  },
+  {
+    "idContainsFunc": 511,
+    "idGenLaborFunc": 42,
+    "idLaborFunc": 511
+  },
+  {
+    "idContainsFunc": 512,
+    "idGenLaborFunc": 42,
+    "idLaborFunc": 512
+  },
+  {
+    "idContainsFunc": 513,
+    "idGenLaborFunc": 42,
+    "idLaborFunc": 513
+  },
+  {
+    "idContainsFunc": 514,
+    "idGenLaborFunc": 42,
+    "idLaborFunc": 514
+  },
+  {
+    "idContainsFunc": 515,
+    "idGenLaborFunc": 42,
+    "idLaborFunc": 515
+  },
+  {
+    "idContainsFunc": 516,
+    "idGenLaborFunc": 42,
+    "idLaborFunc": 516
+  },
+  {
+    "idContainsFunc": 517,
+    "idGenLaborFunc": 42,
+    "idLaborFunc": 517
+  },
+  {
+    "idContainsFunc": 518,
+    "idGenLaborFunc": 42,
+    "idLaborFunc": 518
+  },
+  {
+    "idContainsFunc": 519,
+    "idGenLaborFunc": 43,
+    "idLaborFunc": 519
+  },
+  {
+    "idContainsFunc": 520,
+    "idGenLaborFunc": 43,
+    "idLaborFunc": 520
+  },
+  {
+    "idContainsFunc": 521,
+    "idGenLaborFunc": 43,
+    "idLaborFunc": 521
+  },
+  {
+    "idContainsFunc": 522,
+    "idGenLaborFunc": 43,
+    "idLaborFunc": 522
+  },
+  {
+    "idContainsFunc": 523,
+    "idGenLaborFunc": 43,
+    "idLaborFunc": 523
+  },
+  {
+    "idContainsFunc": 524,
+    "idGenLaborFunc": 43,
+    "idLaborFunc": 524
+  },
+  {
+    "idContainsFunc": 525,
+    "idGenLaborFunc": 43,
+    "idLaborFunc": 525
+  },
+  {
+    "idContainsFunc": 526,
+    "idGenLaborFunc": 43,
+    "idLaborFunc": 526
+  },
+  {
+    "idContainsFunc": 527,
+    "idGenLaborFunc": 43,
+    "idLaborFunc": 527
+  },
+  {
+    "idContainsFunc": 528,
+    "idGenLaborFunc": 43,
+    "idLaborFunc": 528
+  },
+  {
+    "idContainsFunc": 529,
+    "idGenLaborFunc": 44,
+    "idLaborFunc": 529
+  },
+  {
+    "idContainsFunc": 530,
+    "idGenLaborFunc": 44,
+    "idLaborFunc": 530
+  },
+  {
+    "idContainsFunc": 531,
+    "idGenLaborFunc": 45,
+    "idLaborFunc": 531
+  },
+  {
+    "idContainsFunc": 532,
+    "idGenLaborFunc": 45,
+    "idLaborFunc": 532
+  },
+  {
+    "idContainsFunc": 533,
+    "idGenLaborFunc": 45,
+    "idLaborFunc": 533
+  },
+  {
+    "idContainsFunc": 534,
+    "idGenLaborFunc": 46,
+    "idLaborFunc": 534
+  },
+  {
+    "idContainsFunc": 535,
+    "idGenLaborFunc": 46,
+    "idLaborFunc": 535
+  },
+  {
+    "idContainsFunc": 536,
+    "idGenLaborFunc": 47,
+    "idLaborFunc": 536
+  },
+  {
+    "idContainsFunc": 537,
+    "idGenLaborFunc": 47,
+    "idLaborFunc": 537
+  },
+  {
+    "idContainsFunc": 538,
+    "idGenLaborFunc": 48,
+    "idLaborFunc": 538
+  },
+  {
+    "idContainsFunc": 539,
+    "idGenLaborFunc": 48,
+    "idLaborFunc": 539
+  },
+  {
+    "idContainsFunc": 540,
+    "idGenLaborFunc": 48,
+    "idLaborFunc": 540
+  },
+  {
+    "idContainsFunc": 541,
+    "idGenLaborFunc": 49,
+    "idLaborFunc": 541
+  },
+  {
+    "idContainsFunc": 542,
+    "idGenLaborFunc": 49,
+    "idLaborFunc": 542
+  },
+  {
+    "idContainsFunc": 543,
+    "idGenLaborFunc": 49,
+    "idLaborFunc": 543
+  },
+  {
+    "idContainsFunc": 544,
+    "idGenLaborFunc": 49,
+    "idLaborFunc": 544
+  },
+  {
+    "idContainsFunc": 545,
+    "idGenLaborFunc": 49,
+    "idLaborFunc": 545
+  },
+  {
+    "idContainsFunc": 546,
+    "idGenLaborFunc": 50,
+    "idLaborFunc": 546
+  },
+  {
+    "idContainsFunc": 547,
+    "idGenLaborFunc": 50,
+    "idLaborFunc": 547
+  },
+  {
+    "idContainsFunc": 548,
+    "idGenLaborFunc": 50,
+    "idLaborFunc": 548
+  },
+  {
+    "idContainsFunc": 549,
+    "idGenLaborFunc": 51,
+    "idLaborFunc": 549
+  },
+  {
+    "idContainsFunc": 550,
+    "idGenLaborFunc": 51,
+    "idLaborFunc": 550
+  },
+  {
+    "idContainsFunc": 551,
+    "idGenLaborFunc": 51,
+    "idLaborFunc": 551
+  },
+  {
+    "idContainsFunc": 552,
+    "idGenLaborFunc": 51,
+    "idLaborFunc": 552
+  },
+  {
+    "idContainsFunc": 553,
+    "idGenLaborFunc": 51,
+    "idLaborFunc": 553
+  },
+  {
+    "idContainsFunc": 554,
+    "idGenLaborFunc": 51,
+    "idLaborFunc": 554
+  },
+  {
+    "idContainsFunc": 555,
+    "idGenLaborFunc": 51,
+    "idLaborFunc": 555
+  },
+  {
+    "idContainsFunc": 556,
+    "idGenLaborFunc": 52,
+    "idLaborFunc": 556
+  },
+  {
+    "idContainsFunc": 557,
+    "idGenLaborFunc": 52,
+    "idLaborFunc": 557
+  },
+  {
+    "idContainsFunc": 558,
+    "idGenLaborFunc": 52,
+    "idLaborFunc": 558
+  },
+  {
+    "idContainsFunc": 559,
+    "idGenLaborFunc": 52,
+    "idLaborFunc": 559
+  },
+  {
+    "idContainsFunc": 560,
+    "idGenLaborFunc": 53,
+    "idLaborFunc": 560
+  },
+  {
+    "idContainsFunc": 561,
+    "idGenLaborFunc": 53,
+    "idLaborFunc": 561
+  },
+  {
+    "idContainsFunc": 562,
+    "idGenLaborFunc": 53,
+    "idLaborFunc": 562
+  },
+  {
+    "idContainsFunc": 563,
+    "idGenLaborFunc": 53,
+    "idLaborFunc": 563
+  },
+  {
+    "idContainsFunc": 564,
+    "idGenLaborFunc": 53,
+    "idLaborFunc": 564
+  },
+  {
+    "idContainsFunc": 565,
+    "idGenLaborFunc": 54,
+    "idLaborFunc": 565
+  },
+  {
+    "idContainsFunc": 566,
+    "idGenLaborFunc": 54,
+    "idLaborFunc": 566
+  },
+  {
+    "idContainsFunc": 567,
+    "idGenLaborFunc": 54,
+    "idLaborFunc": 567
+  },
+  {
+    "idContainsFunc": 568,
+    "idGenLaborFunc": 54,
+    "idLaborFunc": 568
+  },
+  {
+    "idContainsFunc": 569,
+    "idGenLaborFunc": 54,
+    "idLaborFunc": 569
+  },
+  {
+    "idContainsFunc": 570,
+    "idGenLaborFunc": 54,
+    "idLaborFunc": 570
+  },
+  {
+    "idContainsFunc": 571,
+    "idGenLaborFunc": 54,
+    "idLaborFunc": 571
+  },
+  {
+    "idContainsFunc": 572,
+    "idGenLaborFunc": 55,
+    "idLaborFunc": 572
+  },
+  {
+    "idContainsFunc": 573,
+    "idGenLaborFunc": 55,
+    "idLaborFunc": 573
+  },
+  {
+    "idContainsFunc": 574,
+    "idGenLaborFunc": 55,
+    "idLaborFunc": 574
+  },
+  {
+    "idContainsFunc": 575,
+    "idGenLaborFunc": 55,
+    "idLaborFunc": 575
+  },
+  {
+    "idContainsFunc": 576,
+    "idGenLaborFunc": 55,
+    "idLaborFunc": 576
+  },
+  {
+    "idContainsFunc": 577,
+    "idGenLaborFunc": 55,
+    "idLaborFunc": 577
+  },
+  {
+    "idContainsFunc": 578,
+    "idGenLaborFunc": 55,
+    "idLaborFunc": 578
+  },
+  {
+    "idContainsFunc": 579,
+    "idGenLaborFunc": 55,
+    "idLaborFunc": 579
+  },
+  {
+    "idContainsFunc": 580,
+    "idGenLaborFunc": 55,
+    "idLaborFunc": 580
+  },
+  {
+    "idContainsFunc": 581,
+    "idGenLaborFunc": 56,
+    "idLaborFunc": 581
+  },
+  {
+    "idContainsFunc": 582,
+    "idGenLaborFunc": 56,
+    "idLaborFunc": 582
+  },
+  {
+    "idContainsFunc": 583,
+    "idGenLaborFunc": 56,
+    "idLaborFunc": 583
+  },
+  {
+    "idContainsFunc": 584,
+    "idGenLaborFunc": 56,
+    "idLaborFunc": 584
+  },
+  {
+    "idContainsFunc": 585,
+    "idGenLaborFunc": 56,
+    "idLaborFunc": 585
+  },
+  {
+    "idContainsFunc": 586,
+    "idGenLaborFunc": 56,
+    "idLaborFunc": 586
+  },
+  {
+    "idContainsFunc": 587,
+    "idGenLaborFunc": 56,
+    "idLaborFunc": 587
+  },
+  {
+    "idContainsFunc": 588,
+    "idGenLaborFunc": 56,
+    "idLaborFunc": 588
+  },
+  {
+    "idContainsFunc": 589,
+    "idGenLaborFunc": 56,
+    "idLaborFunc": 589
+  },
+  {
+    "idContainsFunc": 590,
+    "idGenLaborFunc": 57,
+    "idLaborFunc": 590
+  },
+  {
+    "idContainsFunc": 591,
+    "idGenLaborFunc": 57,
+    "idLaborFunc": 591
+  },
+  {
+    "idContainsFunc": 592,
+    "idGenLaborFunc": 57,
+    "idLaborFunc": 592
+  },
+  {
+    "idContainsFunc": 593,
+    "idGenLaborFunc": 57,
+    "idLaborFunc": 593
+  },
+  {
+    "idContainsFunc": 594,
+    "idGenLaborFunc": 57,
+    "idLaborFunc": 594
+  },
+  {
+    "idContainsFunc": 595,
+    "idGenLaborFunc": 57,
+    "idLaborFunc": 595
+  },
+  {
+    "idContainsFunc": 596,
+    "idGenLaborFunc": 58,
+    "idLaborFunc": 596
+  },
+  {
+    "idContainsFunc": 597,
+    "idGenLaborFunc": 58,
+    "idLaborFunc": 597
+  },
+  {
+    "idContainsFunc": 598,
+    "idGenLaborFunc": 58,
+    "idLaborFunc": 598
+  },
+  {
+    "idContainsFunc": 599,
+    "idGenLaborFunc": 59,
+    "idLaborFunc": 599
+  },
+  {
+    "idContainsFunc": 600,
+    "idGenLaborFunc": 59,
+    "idLaborFunc": 600
+  },
+  {
+    "idContainsFunc": 601,
+    "idGenLaborFunc": 59,
+    "idLaborFunc": 601
+  },
+  {
+    "idContainsFunc": 602,
+    "idGenLaborFunc": 60,
+    "idLaborFunc": 602
+  },
+  {
+    "idContainsFunc": 603,
+    "idGenLaborFunc": 60,
+    "idLaborFunc": 603
+  },
+  {
+    "idContainsFunc": 604,
+    "idGenLaborFunc": 60,
+    "idLaborFunc": 604
+  },
+  {
+    "idContainsFunc": 605,
+    "idGenLaborFunc": 60,
+    "idLaborFunc": 605
+  },
+  {
+    "idContainsFunc": 606,
+    "idGenLaborFunc": 61,
+    "idLaborFunc": 606
+  },
+  {
+    "idContainsFunc": 607,
+    "idGenLaborFunc": 61,
+    "idLaborFunc": 607
+  },
+  {
+    "idContainsFunc": 608,
+    "idGenLaborFunc": 61,
+    "idLaborFunc": 608
+  },
+  {
+    "idContainsFunc": 609,
+    "idGenLaborFunc": 62,
+    "idLaborFunc": 609
+  },
+  {
+    "idContainsFunc": 610,
+    "idGenLaborFunc": 62,
+    "idLaborFunc": 610
+  },
+  {
+    "idContainsFunc": 611,
+    "idGenLaborFunc": 62,
+    "idLaborFunc": 611
+  },
+  {
+    "idContainsFunc": 612,
+    "idGenLaborFunc": 62,
+    "idLaborFunc": 612
+  },
+  {
+    "idContainsFunc": 613,
+    "idGenLaborFunc": 63,
+    "idLaborFunc": 613
+  },
+  {
+    "idContainsFunc": 614,
+    "idGenLaborFunc": 63,
+    "idLaborFunc": 614
+  },
+  {
+    "idContainsFunc": 615,
+    "idGenLaborFunc": 63,
+    "idLaborFunc": 615
+  },
+  {
+    "idContainsFunc": 616,
+    "idGenLaborFunc": 64,
+    "idLaborFunc": 616
+  },
+  {
+    "idContainsFunc": 617,
+    "idGenLaborFunc": 64,
+    "idLaborFunc": 617
+  },
+  {
+    "idContainsFunc": 618,
+    "idGenLaborFunc": 64,
+    "idLaborFunc": 618
+  },
+  {
+    "idContainsFunc": 619,
+    "idGenLaborFunc": 65,
+    "idLaborFunc": 619
+  },
+  {
+    "idContainsFunc": 620,
+    "idGenLaborFunc": 65,
+    "idLaborFunc": 620
+  },
+  {
+    "idContainsFunc": 621,
+    "idGenLaborFunc": 65,
+    "idLaborFunc": 621
+  },
+  {
+    "idContainsFunc": 622,
+    "idGenLaborFunc": 66,
+    "idLaborFunc": 622
+  },
+  {
+    "idContainsFunc": 623,
+    "idGenLaborFunc": 66,
+    "idLaborFunc": 623
+  },
+  {
+    "idContainsFunc": 624,
+    "idGenLaborFunc": 66,
+    "idLaborFunc": 624
+  },
+  {
+    "idContainsFunc": 625,
+    "idGenLaborFunc": 67,
+    "idLaborFunc": 625
+  },
+  {
+    "idContainsFunc": 626,
+    "idGenLaborFunc": 67,
+    "idLaborFunc": 626
+  },
+  {
+    "idContainsFunc": 627,
+    "idGenLaborFunc": 67,
+    "idLaborFunc": 627
+  },
+  {
+    "idContainsFunc": 628,
+    "idGenLaborFunc": 68,
+    "idLaborFunc": 628
+  },
+  {
+    "idContainsFunc": 629,
+    "idGenLaborFunc": 68,
+    "idLaborFunc": 629
+  },
+  {
+    "idContainsFunc": 630,
+    "idGenLaborFunc": 68,
+    "idLaborFunc": 630
+  },
+  {
+    "idContainsFunc": 631,
+    "idGenLaborFunc": 69,
+    "idLaborFunc": 631
+  },
+  {
+    "idContainsFunc": 632,
+    "idGenLaborFunc": 69,
+    "idLaborFunc": 632
+  },
+  {
+    "idContainsFunc": 633,
+    "idGenLaborFunc": 69,
+    "idLaborFunc": 633
+  },
+  {
+    "idContainsFunc": 634,
+    "idGenLaborFunc": 70,
+    "idLaborFunc": 634
+  },
+  {
+    "idContainsFunc": 635,
+    "idGenLaborFunc": 70,
+    "idLaborFunc": 635
+  },
+  {
+    "idContainsFunc": 636,
+    "idGenLaborFunc": 71,
+    "idLaborFunc": 636
+  },
+  {
+    "idContainsFunc": 637,
+    "idGenLaborFunc": 71,
+    "idLaborFunc": 637
+  },
+  {
+    "idContainsFunc": 638,
+    "idGenLaborFunc": 71,
+    "idLaborFunc": 638
+  },
+  {
+    "idContainsFunc": 639,
+    "idGenLaborFunc": 72,
+    "idLaborFunc": 639
+  },
+  {
+    "idContainsFunc": 640,
+    "idGenLaborFunc": 72,
+    "idLaborFunc": 640
+  },
+  {
+    "idContainsFunc": 641,
+    "idGenLaborFunc": 72,
+    "idLaborFunc": 641
+  },
+  {
+    "idContainsFunc": 642,
+    "idGenLaborFunc": 72,
+    "idLaborFunc": 642
+  },
+  {
+    "idContainsFunc": 643,
+    "idGenLaborFunc": 72,
+    "idLaborFunc": 643
+  },
+  {
+    "idContainsFunc": 644,
+    "idGenLaborFunc": 72,
+    "idLaborFunc": 644
+  },
+  {
+    "idContainsFunc": 645,
+    "idGenLaborFunc": 72,
+    "idLaborFunc": 645
+  },
+  {
+    "idContainsFunc": 646,
+    "idGenLaborFunc": 72,
+    "idLaborFunc": 646
+  },
+  {
+    "idContainsFunc": 647,
+    "idGenLaborFunc": 72,
+    "idLaborFunc": 647
+  },
+  {
+    "idContainsFunc": 648,
+    "idGenLaborFunc": 73,
+    "idLaborFunc": 648
+  },
+  {
+    "idContainsFunc": 649,
+    "idGenLaborFunc": 73,
+    "idLaborFunc": 649
+  },
+  {
+    "idContainsFunc": 650,
+    "idGenLaborFunc": 73,
+    "idLaborFunc": 650
+  },
+  {
+    "idContainsFunc": 651,
+    "idGenLaborFunc": 73,
+    "idLaborFunc": 651
+  },
+  {
+    "idContainsFunc": 652,
+    "idGenLaborFunc": 73,
+    "idLaborFunc": 652
+  },
+  {
+    "idContainsFunc": 653,
+    "idGenLaborFunc": 74,
+    "idLaborFunc": 653
+  },
+  {
+    "idContainsFunc": 654,
+    "idGenLaborFunc": 74,
+    "idLaborFunc": 654
+  },
+  {
+    "idContainsFunc": 655,
+    "idGenLaborFunc": 74,
+    "idLaborFunc": 655
+  },
+  {
+    "idContainsFunc": 656,
+    "idGenLaborFunc": 75,
+    "idLaborFunc": 656
+  },
+  {
+    "idContainsFunc": 657,
+    "idGenLaborFunc": 75,
+    "idLaborFunc": 657
+  },
+  {
+    "idContainsFunc": 658,
+    "idGenLaborFunc": 75,
+    "idLaborFunc": 658
+  },
+  {
+    "idContainsFunc": 659,
+    "idGenLaborFunc": 76,
+    "idLaborFunc": 659
+  },
+  {
+    "idContainsFunc": 660,
+    "idGenLaborFunc": 76,
+    "idLaborFunc": 660
+  },
+  {
+    "idContainsFunc": 661,
+    "idGenLaborFunc": 76,
+    "idLaborFunc": 661
+  },
+  {
+    "idContainsFunc": 662,
+    "idGenLaborFunc": 77,
+    "idLaborFunc": 662
+  },
+  {
+    "idContainsFunc": 663,
+    "idGenLaborFunc": 77,
+    "idLaborFunc": 663
+  },
+  {
+    "idContainsFunc": 664,
+    "idGenLaborFunc": 77,
+    "idLaborFunc": 664
+  },
+  {
+    "idContainsFunc": 665,
+    "idGenLaborFunc": 77,
+    "idLaborFunc": 665
+  },
+  {
+    "idContainsFunc": 666,
+    "idGenLaborFunc": 77,
+    "idLaborFunc": 666
+  },
+  {
+    "idContainsFunc": 667,
+    "idGenLaborFunc": 77,
+    "idLaborFunc": 667
+  },
+  {
+    "idContainsFunc": 668,
+    "idGenLaborFunc": 78,
+    "idLaborFunc": 668
+  },
+  {
+    "idContainsFunc": 669,
+    "idGenLaborFunc": 78,
+    "idLaborFunc": 669
+  },
+  {
+    "idContainsFunc": 670,
+    "idGenLaborFunc": 78,
+    "idLaborFunc": 670
+  },
+  {
+    "idContainsFunc": 671,
+    "idGenLaborFunc": 78,
+    "idLaborFunc": 671
+  },
+  {
+    "idContainsFunc": 672,
+    "idGenLaborFunc": 79,
+    "idLaborFunc": 672
+  },
+  {
+    "idContainsFunc": 673,
+    "idGenLaborFunc": 79,
+    "idLaborFunc": 673
+  },
+  {
+    "idContainsFunc": 674,
+    "idGenLaborFunc": 79,
+    "idLaborFunc": 674
+  },
+  {
+    "idContainsFunc": 675,
+    "idGenLaborFunc": 80,
+    "idLaborFunc": 675
+  },
+  {
+    "idContainsFunc": 676,
+    "idGenLaborFunc": 80,
+    "idLaborFunc": 676
+  },
+  {
+    "idContainsFunc": 677,
+    "idGenLaborFunc": 80,
+    "idLaborFunc": 677
+  },
+  {
+    "idContainsFunc": 678,
+    "idGenLaborFunc": 80,
+    "idLaborFunc": 678
+  },
+  {
+    "idContainsFunc": 679,
+    "idGenLaborFunc": 80,
+    "idLaborFunc": 679
+  },
+  {
+    "idContainsFunc": 680,
+    "idGenLaborFunc": 80,
+    "idLaborFunc": 680
+  },
+  {
+    "idContainsFunc": 681,
+    "idGenLaborFunc": 81,
+    "idLaborFunc": 681
+  },
+  {
+    "idContainsFunc": 682,
+    "idGenLaborFunc": 81,
+    "idLaborFunc": 682
+  },
+  {
+    "idContainsFunc": 683,
+    "idGenLaborFunc": 81,
+    "idLaborFunc": 683
+  },
+  {
+    "idContainsFunc": 684,
+    "idGenLaborFunc": 81,
+    "idLaborFunc": 684
+  },
+  {
+    "idContainsFunc": 685,
+    "idGenLaborFunc": 82,
+    "idLaborFunc": 685
+  },
+  {
+    "idContainsFunc": 686,
+    "idGenLaborFunc": 82,
+    "idLaborFunc": 686
+  },
+  {
+    "idContainsFunc": 687,
+    "idGenLaborFunc": 82,
+    "idLaborFunc": 687
+  },
+  {
+    "idContainsFunc": 688,
+    "idGenLaborFunc": 82,
+    "idLaborFunc": 688
+  },
+  {
+    "idContainsFunc": 689,
+    "idGenLaborFunc": 83,
+    "idLaborFunc": 689
+  },
+  {
+    "idContainsFunc": 690,
+    "idGenLaborFunc": 83,
+    "idLaborFunc": 690
+  },
+  {
+    "idContainsFunc": 691,
+    "idGenLaborFunc": 83,
+    "idLaborFunc": 691
+  },
+  {
+    "idContainsFunc": 692,
+    "idGenLaborFunc": 83,
+    "idLaborFunc": 692
+  },
+  {
+    "idContainsFunc": 693,
+    "idGenLaborFunc": 84,
+    "idLaborFunc": 693
+  },
+  {
+    "idContainsFunc": 694,
+    "idGenLaborFunc": 84,
+    "idLaborFunc": 694
+  },
+  {
+    "idContainsFunc": 695,
+    "idGenLaborFunc": 85,
+    "idLaborFunc": 695
+  },
+  {
+    "idContainsFunc": 696,
+    "idGenLaborFunc": 86,
+    "idLaborFunc": 696
+  },
+  {
+    "idContainsFunc": 697,
+    "idGenLaborFunc": 86,
+    "idLaborFunc": 697
+  },
+  {
+    "idContainsFunc": 698,
+    "idGenLaborFunc": 86,
+    "idLaborFunc": 698
+  },
+  {
+    "idContainsFunc": 699,
+    "idGenLaborFunc": 86,
+    "idLaborFunc": 699
+  },
+  {
+    "idContainsFunc": 700,
+    "idGenLaborFunc": 87,
+    "idLaborFunc": 700
+  },
+  {
+    "idContainsFunc": 701,
+    "idGenLaborFunc": 87,
+    "idLaborFunc": 701
+  },
+  {
+    "idContainsFunc": 702,
+    "idGenLaborFunc": 88,
+    "idLaborFunc": 702
+  },
+  {
+    "idContainsFunc": 703,
+    "idGenLaborFunc": 88,
+    "idLaborFunc": 703
+  },
+  {
+    "idContainsFunc": 704,
+    "idGenLaborFunc": 88,
+    "idLaborFunc": 704
+  },
+  {
+    "idContainsFunc": 705,
+    "idGenLaborFunc": 88,
+    "idLaborFunc": 705
+  },
+  {
+    "idContainsFunc": 706,
+    "idGenLaborFunc": 89,
+    "idLaborFunc": 706
+  },
+  {
+    "idContainsFunc": 707,
+    "idGenLaborFunc": 89,
+    "idLaborFunc": 707
+  },
+  {
+    "idContainsFunc": 708,
+    "idGenLaborFunc": 89,
+    "idLaborFunc": 708
+  },
+  {
+    "idContainsFunc": 709,
+    "idGenLaborFunc": 89,
+    "idLaborFunc": 709
+  },
+  {
+    "idContainsFunc": 710,
+    "idGenLaborFunc": 89,
+    "idLaborFunc": 710
+  },
+  {
+    "idContainsFunc": 711,
+    "idGenLaborFunc": 90,
+    "idLaborFunc": 711
+  },
+  {
+    "idContainsFunc": 712,
+    "idGenLaborFunc": 90,
+    "idLaborFunc": 712
+  },
+  {
+    "idContainsFunc": 713,
+    "idGenLaborFunc": 90,
+    "idLaborFunc": 713
+  },
+  {
+    "idContainsFunc": 714,
+    "idGenLaborFunc": 91,
+    "idLaborFunc": 714
+  },
+  {
+    "idContainsFunc": 715,
+    "idGenLaborFunc": 91,
+    "idLaborFunc": 715
+  },
+  {
+    "idContainsFunc": 716,
+    "idGenLaborFunc": 92,
+    "idLaborFunc": 716
+  },
+  {
+    "idContainsFunc": 717,
+    "idGenLaborFunc": 92,
+    "idLaborFunc": 717
+  },
+  {
+    "idContainsFunc": 718,
+    "idGenLaborFunc": 93,
+    "idLaborFunc": 718
+  },
+  {
+    "idContainsFunc": 719,
+    "idGenLaborFunc": 93,
+    "idLaborFunc": 719
+  },
+  {
+    "idContainsFunc": 720,
+    "idGenLaborFunc": 93,
+    "idLaborFunc": 720
+  },
+  {
+    "idContainsFunc": 721,
+    "idGenLaborFunc": 93,
+    "idLaborFunc": 721
+  },
+  {
+    "idContainsFunc": 722,
+    "idGenLaborFunc": 93,
+    "idLaborFunc": 722
+  },
+  {
+    "idContainsFunc": 723,
+    "idGenLaborFunc": 93,
+    "idLaborFunc": 723
+  },
+  {
+    "idContainsFunc": 724,
+    "idGenLaborFunc": 93,
+    "idLaborFunc": 724
+  },
+  {
+    "idContainsFunc": 725,
+    "idGenLaborFunc": 93,
+    "idLaborFunc": 725
+  },
+  {
+    "idContainsFunc": 726,
+    "idGenLaborFunc": 93,
+    "idLaborFunc": 726
+  },
+  {
+    "idContainsFunc": 727,
+    "idGenLaborFunc": 93,
+    "idLaborFunc": 727
+  },
+  {
+    "idContainsFunc": 728,
+    "idGenLaborFunc": 93,
+    "idLaborFunc": 728
+  },
+  {
+    "idContainsFunc": 729,
+    "idGenLaborFunc": 94,
+    "idLaborFunc": 729
+  },
+  {
+    "idContainsFunc": 730,
+    "idGenLaborFunc": 94,
+    "idLaborFunc": 730
+  },
+  {
+    "idContainsFunc": 731,
+    "idGenLaborFunc": 94,
+    "idLaborFunc": 731
+  },
+  {
+    "idContainsFunc": 732,
+    "idGenLaborFunc": 94,
+    "idLaborFunc": 732
+  },
+  {
+    "idContainsFunc": 733,
+    "idGenLaborFunc": 94,
+    "idLaborFunc": 733
+  },
+  {
+    "idContainsFunc": 734,
+    "idGenLaborFunc": 94,
+    "idLaborFunc": 734
+  },
+  {
+    "idContainsFunc": 735,
+    "idGenLaborFunc": 94,
+    "idLaborFunc": 735
+  },
+  {
+    "idContainsFunc": 736,
+    "idGenLaborFunc": 95,
+    "idLaborFunc": 736
+  },
+  {
+    "idContainsFunc": 737,
+    "idGenLaborFunc": 95,
+    "idLaborFunc": 737
+  },
+  {
+    "idContainsFunc": 738,
+    "idGenLaborFunc": 95,
+    "idLaborFunc": 738
+  },
+  {
+    "idContainsFunc": 739,
+    "idGenLaborFunc": 95,
+    "idLaborFunc": 739
+  },
+  {
+    "idContainsFunc": 740,
+    "idGenLaborFunc": 95,
+    "idLaborFunc": 740
+  },
+  {
+    "idContainsFunc": 741,
+    "idGenLaborFunc": 95,
+    "idLaborFunc": 741
+  },
+  {
+    "idContainsFunc": 742,
+    "idGenLaborFunc": 95,
+    "idLaborFunc": 742
+  },
+  {
+    "idContainsFunc": 743,
+    "idGenLaborFunc": 95,
+    "idLaborFunc": 743
+  },
+  {
+    "idContainsFunc": 744,
+    "idGenLaborFunc": 95,
+    "idLaborFunc": 744
+  },
+  {
+    "idContainsFunc": 745,
+    "idGenLaborFunc": 95,
+    "idLaborFunc": 745
+  },
+  {
+    "idContainsFunc": 746,
+    "idGenLaborFunc": 96,
+    "idLaborFunc": 746
+  },
+  {
+    "idContainsFunc": 747,
+    "idGenLaborFunc": 96,
+    "idLaborFunc": 747
+  },
+  {
+    "idContainsFunc": 748,
+    "idGenLaborFunc": 96,
+    "idLaborFunc": 748
+  },
+  {
+    "idContainsFunc": 749,
+    "idGenLaborFunc": 96,
+    "idLaborFunc": 749
+  },
+  {
+    "idContainsFunc": 750,
+    "idGenLaborFunc": 96,
+    "idLaborFunc": 750
+  },
+  {
+    "idContainsFunc": 751,
+    "idGenLaborFunc": 96,
+    "idLaborFunc": 751
+  },
+  {
+    "idContainsFunc": 752,
+    "idGenLaborFunc": 97,
+    "idLaborFunc": 752
+  },
+  {
+    "idContainsFunc": 753,
+    "idGenLaborFunc": 97,
+    "idLaborFunc": 753
+  },
+  {
+    "idContainsFunc": 754,
+    "idGenLaborFunc": 97,
+    "idLaborFunc": 754
+  },
+  {
+    "idContainsFunc": 755,
+    "idGenLaborFunc": 97,
+    "idLaborFunc": 755
+  },
+  {
+    "idContainsFunc": 756,
+    "idGenLaborFunc": 97,
+    "idLaborFunc": 756
+  },
+  {
+    "idContainsFunc": 757,
+    "idGenLaborFunc": 98,
+    "idLaborFunc": 757
+  },
+  {
+    "idContainsFunc": 758,
+    "idGenLaborFunc": 98,
+    "idLaborFunc": 758
+  },
+  {
+    "idContainsFunc": 759,
+    "idGenLaborFunc": 99,
+    "idLaborFunc": 759
+  },
+  {
+    "idContainsFunc": 760,
+    "idGenLaborFunc": 99,
+    "idLaborFunc": 760
+  },
+  {
+    "idContainsFunc": 761,
+    "idGenLaborFunc": 99,
+    "idLaborFunc": 761
+  },
+  {
+    "idContainsFunc": 762,
+    "idGenLaborFunc": 100,
+    "idLaborFunc": 762
+  },
+  {
+    "idContainsFunc": 763,
+    "idGenLaborFunc": 100,
+    "idLaborFunc": 763
+  },
+  {
+    "idContainsFunc": 764,
+    "idGenLaborFunc": 100,
+    "idLaborFunc": 764
+  },
+  {
+    "idContainsFunc": 765,
+    "idGenLaborFunc": 100,
+    "idLaborFunc": 765
+  },
+  {
+    "idContainsFunc": 766,
+    "idGenLaborFunc": 101,
+    "idLaborFunc": 766
+  },
+  {
+    "idContainsFunc": 767,
+    "idGenLaborFunc": 101,
+    "idLaborFunc": 767
+  },
+  {
+    "idContainsFunc": 768,
+    "idGenLaborFunc": 101,
+    "idLaborFunc": 768
+  },
+  {
+    "idContainsFunc": 769,
+    "idGenLaborFunc": 101,
+    "idLaborFunc": 769
+  },
+  {
+    "idContainsFunc": 770,
+    "idGenLaborFunc": 101,
+    "idLaborFunc": 770
+  },
+  {
+    "idContainsFunc": 771,
+    "idGenLaborFunc": 101,
+    "idLaborFunc": 445
+  },
+  {
+    "idContainsFunc": 772,
+    "idGenLaborFunc": 102,
+    "idLaborFunc": 771
+  },
+  {
+    "idContainsFunc": 773,
+    "idGenLaborFunc": 102,
+    "idLaborFunc": 772
+  },
+  {
+    "idContainsFunc": 774,
+    "idGenLaborFunc": 102,
+    "idLaborFunc": 773
+  },
+  {
+    "idContainsFunc": 775,
+    "idGenLaborFunc": 102,
+    "idLaborFunc": 774
+  },
+  {
+    "idContainsFunc": 776,
+    "idGenLaborFunc": 103,
+    "idLaborFunc": 775
+  },
+  {
+    "idContainsFunc": 777,
+    "idGenLaborFunc": 103,
+    "idLaborFunc": 776
+  },
+  {
+    "idContainsFunc": 778,
+    "idGenLaborFunc": 103,
+    "idLaborFunc": 777
+  },
+  {
+    "idContainsFunc": 779,
+    "idGenLaborFunc": 103,
+    "idLaborFunc": 778
+  },
+  {
+    "idContainsFunc": 780,
+    "idGenLaborFunc": 103,
+    "idLaborFunc": 779
+  },
+  {
+    "idContainsFunc": 781,
+    "idGenLaborFunc": 103,
+    "idLaborFunc": 780
+  },
+  {
+    "idContainsFunc": 782,
+    "idGenLaborFunc": 103,
+    "idLaborFunc": 781
+  },
+  {
+    "idContainsFunc": 783,
+    "idGenLaborFunc": 103,
+    "idLaborFunc": 782
+  },
+  {
+    "idContainsFunc": 784,
+    "idGenLaborFunc": 103,
+    "idLaborFunc": 783
+  },
+  {
+    "idContainsFunc": 785,
+    "idGenLaborFunc": 103,
+    "idLaborFunc": 784
+  },
+  {
+    "idContainsFunc": 786,
+    "idGenLaborFunc": 104,
+    "idLaborFunc": 785
+  },
+  {
+    "idContainsFunc": 787,
+    "idGenLaborFunc": 104,
+    "idLaborFunc": 786
+  },
+  {
+    "idContainsFunc": 788,
+    "idGenLaborFunc": 104,
+    "idLaborFunc": 787
+  },
+  {
+    "idContainsFunc": 789,
+    "idGenLaborFunc": 105,
+    "idLaborFunc": 788
+  },
+  {
+    "idContainsFunc": 790,
+    "idGenLaborFunc": 105,
+    "idLaborFunc": 789
+  },
+  {
+    "idContainsFunc": 791,
+    "idGenLaborFunc": 106,
+    "idLaborFunc": 790
+  },
+  {
+    "idContainsFunc": 792,
+    "idGenLaborFunc": 106,
+    "idLaborFunc": 791
+  },
+  {
+    "idContainsFunc": 793,
+    "idGenLaborFunc": 107,
+    "idLaborFunc": 792
+  },
+  {
+    "idContainsFunc": 794,
+    "idGenLaborFunc": 107,
+    "idLaborFunc": 793
+  },
+  {
+    "idContainsFunc": 795,
+    "idGenLaborFunc": 107,
+    "idLaborFunc": 794
+  },
+  {
+    "idContainsFunc": 796,
+    "idGenLaborFunc": 107,
+    "idLaborFunc": 795
+  },
+  {
+    "idContainsFunc": 797,
+    "idGenLaborFunc": 108,
+    "idLaborFunc": 796
+  },
+  {
+    "idContainsFunc": 798,
+    "idGenLaborFunc": 108,
+    "idLaborFunc": 797
+  },
+  {
+    "idContainsFunc": 799,
+    "idGenLaborFunc": 108,
+    "idLaborFunc": 798
+  },
+  {
+    "idContainsFunc": 800,
+    "idGenLaborFunc": 109,
+    "idLaborFunc": 799
+  },
+  {
+    "idContainsFunc": 801,
+    "idGenLaborFunc": 109,
+    "idLaborFunc": 800
+  },
+  {
+    "idContainsFunc": 802,
+    "idGenLaborFunc": 109,
+    "idLaborFunc": 801
+  }
+]

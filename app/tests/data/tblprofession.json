@@ -1,0 +1,986 @@
+[
+  {
+    "idProfession": 1,
+    "professionName": "Помощник программиста"
+  },
+  {
+    "idProfession": 2,
+    "professionName": "Техник-программист"
+  },
+  {
+    "idProfession": 3,
+    "professionName": "Программист"
+  },
+  {
+    "idProfession": 4,
+    "professionName": "Инженер-программист"
+  },
+  {
+    "idProfession": 5,
+    "professionName": "Архитектор программной системы"
+  },
+  {
+    "idProfession": 6,
+    "professionName": "Ведущий архитектор программного обеспечения"
+  },
+  {
+    "idProfession": 7,
+    "professionName": "Главный архитектор"
+  },
+  {
+    "idProfession": 8,
+    "professionName": "Младший тестировщик"
+  },
+  {
+    "idProfession": 9,
+    "professionName": "Младший специалист по тестированию"
+  },
+  {
+    "idProfession": 10,
+    "professionName": "Специалист по тестированию (4-й уровень квалификации)"
+  },
+  {
+    "idProfession": 11,
+    "professionName": "Тестировщик"
+  },
+  {
+    "idProfession": 12,
+    "professionName": "Инженер-тестировщик"
+  },
+  {
+    "idProfession": 13,
+    "professionName": "Специалист по тестированию"
+  },
+  {
+    "idProfession": 14,
+    "professionName": "Специалист по тестированию (5-й уровень квалификации)"
+  },
+  {
+    "idProfession": 15,
+    "professionName": "Тест-дизайнер"
+  },
+  {
+    "idProfession": 16,
+    "professionName": "Ведущий тестировщик"
+  },
+  {
+    "idProfession": 17,
+    "professionName": "Старший инженер-тестировщик"
+  },
+  {
+    "idProfession": 18,
+    "professionName": "Специалист по тестированию (6-й уровень квалификации)"
+  },
+  {
+    "idProfession": 19,
+    "professionName": "Тест-менеджер"
+  },
+  {
+    "idProfession": 20,
+    "professionName": "Руководитель службы тестирования"
+  },
+  {
+    "idProfession": 21,
+    "professionName": "Руководитель команды тестовых инженеров"
+  },
+  {
+    "idProfession": 22,
+    "professionName": "Руководитель отдела тестирования"
+  },
+  {
+    "idProfession": 23,
+    "professionName": "Специалист по тестированию (7-й уровень квалификации)"
+  },
+  {
+    "idProfession": 24,
+    "professionName": "Младший администратор БД"
+  },
+  {
+    "idProfession": 25,
+    "professionName": "Младший специалист"
+  },
+  {
+    "idProfession": 26,
+    "professionName": "Младший системный администратор"
+  },
+  {
+    "idProfession": 27,
+    "professionName": "Администратор БД"
+  },
+  {
+    "idProfession": 28,
+    "professionName": "Системный администратор"
+  },
+  {
+    "idProfession": 29,
+    "professionName": "Специалист"
+  },
+  {
+    "idProfession": 30,
+    "professionName": "Младший эксперт"
+  },
+  {
+    "idProfession": 31,
+    "professionName": "Старший администратор БД"
+  },
+  {
+    "idProfession": 32,
+    "professionName": "Старший инженер"
+  },
+  {
+    "idProfession": 33,
+    "professionName": "Старший специалист"
+  },
+  {
+    "idProfession": 34,
+    "professionName": "Инженер"
+  },
+  {
+    "idProfession": 35,
+    "professionName": "Эксперт"
+  },
+  {
+    "idProfession": 36,
+    "professionName": "Старший системный администратор"
+  },
+  {
+    "idProfession": 37,
+    "professionName": "Главный администратор БД"
+  },
+  {
+    "idProfession": 38,
+    "professionName": "Главный системный администратор"
+  },
+  {
+    "idProfession": 39,
+    "professionName": "Главный специалист"
+  },
+  {
+    "idProfession": 40,
+    "professionName": "Ведущий эксперт"
+  },
+  {
+    "idProfession": 41,
+    "professionName": "Ведущий инженер"
+  },
+  {
+    "idProfession": 42,
+    "professionName": "Оператор по вводу данных"
+  },
+  {
+    "idProfession": 43,
+    "professionName": "Служащий по вводу данных"
+  },
+  {
+    "idProfession": 44,
+    "professionName": "Администратор веб-сайта"
+  },
+  {
+    "idProfession": 45,
+    "professionName": "Техник веб-сайта"
+  },
+  {
+    "idProfession": 46,
+    "professionName": "Веб-мастер"
+  },
+  {
+    "idProfession": 47,
+    "professionName": "Веб-писатель"
+  },
+  {
+    "idProfession": 48,
+    "professionName": "Контент-редактор"
+  },
+  {
+    "idProfession": 49,
+    "professionName": "Модератор"
+  },
+  {
+    "idProfession": 50,
+    "professionName": "Веб-райтер"
+  },
+  {
+    "idProfession": 51,
+    "professionName": "Рерайтер"
+  },
+  {
+    "idProfession": 52,
+    "professionName": "Копирайтер"
+  },
+  {
+    "idProfession": 53,
+    "professionName": "Контент-менеджер"
+  },
+  {
+    "idProfession": 54,
+    "professionName": "Менеджер информационных ресурсов"
+  },
+  {
+    "idProfession": 55,
+    "professionName": "Технический специалист по ИС"
+  },
+  {
+    "idProfession": 56,
+    "professionName": "Кодировщик ИС"
+  },
+  {
+    "idProfession": 57,
+    "professionName": "Техник сервисной службы по ИС"
+  },
+  {
+    "idProfession": 58,
+    "professionName": "Специалист по внедрению ИС"
+  },
+  {
+    "idProfession": 59,
+    "professionName": "Программист ИС"
+  },
+  {
+    "idProfession": 60,
+    "professionName": "Консультант по ИС"
+  },
+  {
+    "idProfession": 61,
+    "professionName": "Сервис-инженер по ИС"
+  },
+  {
+    "idProfession": 62,
+    "professionName": "Ведущий специалист по внедрению ИС"
+  },
+  {
+    "idProfession": 63,
+    "professionName": "Программист-проектировщик ИС"
+  },
+  {
+    "idProfession": 64,
+    "professionName": "Ведущий консультант по ИС"
+  },
+  {
+    "idProfession": 65,
+    "professionName": "Бизнес-аналитик"
+  },
+  {
+    "idProfession": 66,
+    "professionName": "Руководитель сервисной службы по ИС"
+  },
+  {
+    "idProfession": 67,
+    "professionName": "Старший менеджер ИТ-продуктов"
+  },
+  {
+    "idProfession": 68,
+    "professionName": "Старший менеджер по развитию ИТ-продуктов"
+  },
+  {
+    "idProfession": 69,
+    "professionName": "Ведущий менеджер ИТ-продуктов"
+  },
+  {
+    "idProfession": 70,
+    "professionName": "Ведущий менеджер по развитию ИТ-продуктов"
+  },
+  {
+    "idProfession": 71,
+    "professionName": "Менеджер серии ИТ-продуктов"
+  },
+  {
+    "idProfession": 72,
+    "professionName": "Руководитель группы (отдела) внедрения ИС"
+  },
+  {
+    "idProfession": 73,
+    "professionName": "Руководитель группы (отдела) сопровождения ИС"
+  },
+  {
+    "idProfession": 74,
+    "professionName": "Руководитель портфеля ИТ-продуктов"
+  },
+  {
+    "idProfession": 75,
+    "professionName": "Руководитель отдела ИТ-продуктов"
+  },
+  {
+    "idProfession": 76,
+    "professionName": "Директор по ИТ-продуктам"
+  },
+  {
+    "idProfession": 77,
+    "professionName": "Помощник руководителя проектов"
+  },
+  {
+    "idProfession": 78,
+    "professionName": "Руководитель проектов"
+  },
+  {
+    "idProfession": 79,
+    "professionName": "Ведущий руководитель проектов"
+  },
+  {
+    "idProfession": 80,
+    "professionName": "Руководитель проектов и программ проектов"
+  },
+  {
+    "idProfession": 81,
+    "professionName": "Руководитель комплексных проектов"
+  },
+  {
+    "idProfession": 82,
+    "professionName": "Руководитель группы разработки"
+  },
+  {
+    "idProfession": 83,
+    "professionName": "Начальник отдела разработки"
+  },
+  {
+    "idProfession": 84,
+    "professionName": "Технический писатель-стажер (специалист потехнической документации в ИТ-стажер)"
+  },
+  {
+    "idProfession": 85,
+    "professionName": "Младший технический писатель (младший специалист по технической документации в ИТ)"
+  },
+  {
+    "idProfession": 86,
+    "professionName": "Оформитель технической документации"
+  },
+  {
+    "idProfession": 87,
+    "professionName": "Технический писатель (специалист потехнической документации в ИТ)"
+  },
+  {
+    "idProfession": 88,
+    "professionName": "Разработчик технический документации"
+  },
+  {
+    "idProfession": 89,
+    "professionName": "Старший технический писатель (специалист потехнической документации в ИТ)"
+  },
+  {
+    "idProfession": 90,
+    "professionName": "Старший разработчик технический документации"
+  },
+  {
+    "idProfession": 91,
+    "professionName": "Старший технический писатель (специалист по технической документации в ИТ)"
+  },
+  {
+    "idProfession": 92,
+    "professionName": "Старший (ведущий) технический писатель (специалист по технической документации в ИТ)"
+  },
+  {
+    "idProfession": 93,
+    "professionName": "Руководитель группы разработки технической документации"
+  },
+  {
+    "idProfession": 94,
+    "professionName": "Инженер по документированию"
+  },
+  {
+    "idProfession": 95,
+    "professionName": "Начальник отдела технической документации"
+  },
+  {
+    "idProfession": 96,
+    "professionName": "Начальник подразделения технической коммуникации"
+  },
+  {
+    "idProfession": 97,
+    "professionName": "Системный аналитик-стажер"
+  },
+  {
+    "idProfession": 98,
+    "professionName": "Младший системный аналитик"
+  },
+  {
+    "idProfession": 99,
+    "professionName": "Младший инженер-исследователь"
+  },
+  {
+    "idProfession": 100,
+    "professionName": "Младший консультант"
+  },
+  {
+    "idProfession": 101,
+    "professionName": "Системный аналитик"
+  },
+  {
+    "idProfession": 102,
+    "professionName": "Инженер-исследователь"
+  },
+  {
+    "idProfession": 103,
+    "professionName": "Консультант"
+  },
+  {
+    "idProfession": 104,
+    "professionName": "Старший системный аналитик"
+  },
+  {
+    "idProfession": 105,
+    "professionName": "Старший инженер-исследователь"
+  },
+  {
+    "idProfession": 106,
+    "professionName": "Старший консультант"
+  },
+  {
+    "idProfession": 107,
+    "professionName": "Ведущий системный аналитик"
+  },
+  {
+    "idProfession": 108,
+    "professionName": "Ведущий инженер-исследователь"
+  },
+  {
+    "idProfession": 109,
+    "professionName": "Ведущий специалист"
+  },
+  {
+    "idProfession": 110,
+    "professionName": "Главный системный аналитик"
+  },
+  {
+    "idProfession": 111,
+    "professionName": "Главный инженер-исследователь"
+  },
+  {
+    "idProfession": 112,
+    "professionName": "Руководитель группы системного анализа"
+  },
+  {
+    "idProfession": 113,
+    "professionName": "Руководитель отдела системного анализа"
+  },
+  {
+    "idProfession": 114,
+    "professionName": "Оператор первой линии технической поддержки"
+  },
+  {
+    "idProfession": 115,
+    "professionName": "Оператор технической поддержки"
+  },
+  {
+    "idProfession": 116,
+    "professionName": "Специалист службы поддержки"
+  },
+  {
+    "idProfession": 117,
+    "professionName": "Специалист второй линии технической поддержки"
+  },
+  {
+    "idProfession": 118,
+    "professionName": "Ведущий специалист по технической поддержке"
+  },
+  {
+    "idProfession": 119,
+    "professionName": "Эксперт по поставляемому оборудованию / программному обеспечению"
+  },
+  {
+    "idProfession": 120,
+    "professionName": "Руководитель группы технической поддержки"
+  },
+  {
+    "idProfession": 121,
+    "professionName": "Графический дизайнер интерфейсов"
+  },
+  {
+    "idProfession": 122,
+    "professionName": "Дизайнер интерфейсов"
+  },
+  {
+    "idProfession": 123,
+    "professionName": "Юзабилити-специалист"
+  },
+  {
+    "idProfession": 124,
+    "professionName": "Дизайнер пользовательского интерфейса"
+  },
+  {
+    "idProfession": 125,
+    "professionName": "Юзабилити-инженер"
+  },
+  {
+    "idProfession": 126,
+    "professionName": "Юзабилити-тестировщик"
+  },
+  {
+    "idProfession": 127,
+    "professionName": "Ведущий дизайнер"
+  },
+  {
+    "idProfession": 128,
+    "professionName": "Ведущий проектировщик интерфейсов"
+  },
+  {
+    "idProfession": 129,
+    "professionName": "Арт-директор"
+  },
+  {
+    "idProfession": 130,
+    "professionName": "Младший специалист отдела инфокоммуникационных технологий"
+  },
+  {
+    "idProfession": 131,
+    "professionName": "Менеджер отдела инфокоммуникационных технологий"
+  },
+  {
+    "idProfession": 132,
+    "professionName": "Техник"
+  },
+  {
+    "idProfession": 133,
+    "professionName": "Специалист отдела инфокоммуникационных технологий"
+  },
+  {
+    "idProfession": 134,
+    "professionName": "Ведущий специалист отдела инфокоммуникационных технологий"
+  },
+  {
+    "idProfession": 135,
+    "professionName": "Системный инженер"
+  },
+  {
+    "idProfession": 136,
+    "professionName": "Ведущий системный администратор"
+  },
+  {
+    "idProfession": 137,
+    "professionName": "Сетевой архитектор"
+  },
+  {
+    "idProfession": 138,
+    "professionName": "Младший сетевой администратор"
+  },
+  {
+    "idProfession": 139,
+    "professionName": "Младший специалист по администрированию сетевых устройств"
+  },
+  {
+    "idProfession": 140,
+    "professionName": "Специалист по сетевому администрированию"
+  },
+  {
+    "idProfession": 141,
+    "professionName": "Специалист по администрированию сетевых устройств"
+  },
+  {
+    "idProfession": 142,
+    "professionName": "Сетевой администратор"
+  },
+  {
+    "idProfession": 143,
+    "professionName": "Сетевой инженер"
+  },
+  {
+    "idProfession": 144,
+    "professionName": "Сетевой аналитик"
+  },
+  {
+    "idProfession": 145,
+    "professionName": "Техник по защите информации I категории"
+  },
+  {
+    "idProfession": 146,
+    "professionName": "Техник по защите информации II категории"
+  },
+  {
+    "idProfession": 147,
+    "professionName": "Техник по защите информации"
+  },
+  {
+    "idProfession": 148,
+    "professionName": "Старший техник по обслуживанию телекоммуникационного оборудования"
+  },
+  {
+    "idProfession": 149,
+    "professionName": "Инженер по защите информации"
+  },
+  {
+    "idProfession": 150,
+    "professionName": "Инженер по телекоммуникациям"
+  },
+  {
+    "idProfession": 151,
+    "professionName": "Администратор телекоммуникационного оборудования"
+  },
+  {
+    "idProfession": 152,
+    "professionName": "Инженер специальной связи"
+  },
+  {
+    "idProfession": 153,
+    "professionName": "Инженер-программист I категории"
+  },
+  {
+    "idProfession": 154,
+    "professionName": "Инженер-программист II категории"
+  },
+  {
+    "idProfession": 155,
+    "professionName": "Инженер-программист III категории"
+  },
+  {
+    "idProfession": 156,
+    "professionName": "Инженер-проектировщик I категории"
+  },
+  {
+    "idProfession": 157,
+    "professionName": "Инженер-проектировщик II категории"
+  },
+  {
+    "idProfession": 158,
+    "professionName": "Инженер-проектировщик III категории"
+  },
+  {
+    "idProfession": 159,
+    "professionName": "Инженер-проектировщик"
+  },
+  {
+    "idProfession": 160,
+    "professionName": "Специалист по защите информации I категории"
+  },
+  {
+    "idProfession": 161,
+    "professionName": "Специалист по защите информации II категории"
+  },
+  {
+    "idProfession": 162,
+    "professionName": "Специалист по защите информации"
+  },
+  {
+    "idProfession": 163,
+    "professionName": "Старший инженер-разработчик"
+  },
+  {
+    "idProfession": 164,
+    "professionName": "Старший инженер специальной связи"
+  },
+  {
+    "idProfession": 165,
+    "professionName": "Консультант по специальным телекоммуникациям"
+  },
+  {
+    "idProfession": 166,
+    "professionName": "Начальник (руководитель) отдела (отделения) систем защиты информации"
+  },
+  {
+    "idProfession": 167,
+    "professionName": "Ведущий инженер-разработчик"
+  },
+  {
+    "idProfession": 168,
+    "professionName": "Начальник (руководитель) научно-исследовательского отдела (лаборатории)"
+  },
+  {
+    "idProfession": 169,
+    "professionName": "Ведущий (главный) специалист по защите информации"
+  },
+  {
+    "idProfession": 170,
+    "professionName": "Научный консультант по защите информации"
+  },
+  {
+    "idProfession": 171,
+    "professionName": "Техник по обслуживанию информационно-аналитических систем"
+  },
+  {
+    "idProfession": 172,
+    "professionName": "Инженер информационно-аналитического подразделения"
+  },
+  {
+    "idProfession": 173,
+    "professionName": "Инженер – системный программист"
+  },
+  {
+    "idProfession": 174,
+    "professionName": "Дизайнер баз данных"
+  },
+  {
+    "idProfession": 175,
+    "professionName": "Инженер по защите информации II категории"
+  },
+  {
+    "idProfession": 176,
+    "professionName": "Инженер по защите информации I категории"
+  },
+  {
+    "idProfession": 177,
+    "professionName": "Начальник научно-исследовательского подразделения"
+  },
+  {
+    "idProfession": 178,
+    "professionName": "Руководитель информационно-аналитического подразделения"
+  },
+  {
+    "idProfession": 179,
+    "professionName": "Главный (ведущий) научный сотрудник"
+  },
+  {
+    "idProfession": 180,
+    "professionName": "Научный консультант"
+  },
+  {
+    "idProfession": 181,
+    "professionName": "Техник по безопасности компьютерных систем и сетей"
+  },
+  {
+    "idProfession": 182,
+    "professionName": "Администратор безопасности компьютерных систем и сетей"
+  },
+  {
+    "idProfession": 183,
+    "professionName": "Администратор по обеспечению безопасности информации"
+  },
+  {
+    "idProfession": 184,
+    "professionName": "Инженер-программист по технической защите информации I категории"
+  },
+  {
+    "idProfession": 185,
+    "professionName": "Инженер-программист по технической защите информации II категории"
+  },
+  {
+    "idProfession": 186,
+    "professionName": "Инженер-программист по технической защите информации"
+  },
+  {
+    "idProfession": 187,
+    "professionName": "Специалист по защите информации в компьютерных системах и сетях"
+  },
+  {
+    "idProfession": 188,
+    "professionName": "Эксперт по анализу защищенности компьютерных систем и сетей"
+  },
+  {
+    "idProfession": 189,
+    "professionName": "Ведущий (старший) специалист по защите информации"
+  },
+  {
+    "idProfession": 190,
+    "professionName": "Руководитель группы (специализированной в прочих отраслях)"
+  },
+  {
+    "idProfession": 191,
+    "professionName": "Руководитель группы (функциональной в прочих областях деятельности)"
+  },
+  {
+    "idProfession": 192,
+    "professionName": "Главный специалист по защите информации"
+  },
+  {
+    "idProfession": 193,
+    "professionName": "Руководитель отдела систем защиты информации"
+  },
+  {
+    "idProfession": 194,
+    "professionName": "Заместитель руководителя департамента (отдела) исследований и разработок"
+  },
+  {
+    "idProfession": 195,
+    "professionName": "Руководитель департамента (отдела) исследований и разработок"
+  },
+  {
+    "idProfession": 196,
+    "professionName": "Ведущий инженер-разработчик систем защиты информации"
+  },
+  {
+    "idProfession": 197,
+    "professionName": "Ведущий специалист по защите информации"
+  },
+  {
+    "idProfession": 198,
+    "professionName": "Руководитель проектов в области разработки систем защиты информации"
+  },
+  {
+    "idProfession": 199,
+    "professionName": "Техник по технической защите информации I категории"
+  },
+  {
+    "idProfession": 200,
+    "professionName": "Техник по технической защите информации II категории"
+  },
+  {
+    "idProfession": 201,
+    "professionName": "Техник по технической защите информации"
+  },
+  {
+    "idProfession": 202,
+    "professionName": "Специалист по технической защите информации I категории"
+  },
+  {
+    "idProfession": 203,
+    "professionName": "Специалист по технической защите информации II категории"
+  },
+  {
+    "idProfession": 204,
+    "professionName": "Специалист по технической защите информации"
+  },
+  {
+    "idProfession": 205,
+    "professionName": "Инженер по технической защите информации"
+  },
+  {
+    "idProfession": 206,
+    "professionName": "Технический специалист"
+  },
+  {
+    "idProfession": 207,
+    "professionName": "Кодировщик"
+  },
+  {
+    "idProfession": 208,
+    "professionName": "Техник сервисной службы по ИР"
+  },
+  {
+    "idProfession": 209,
+    "professionName": "Специалист по сопровождению сайта"
+  },
+  {
+    "idProfession": 210,
+    "professionName": "Разработчик"
+  },
+  {
+    "idProfession": 211,
+    "professionName": "Ведущий разработчик"
+  },
+  {
+    "idProfession": 212,
+    "professionName": "Программист-проектировщик"
+  },
+  {
+    "idProfession": 213,
+    "professionName": "Руководитель проекта по созданию сайта"
+  },
+  {
+    "idProfession": 214,
+    "professionName": "Руководитель группы (отдела) технической поддержки"
+  },
+  {
+    "idProfession": 215,
+    "professionName": "Техник по интеграции прикладных решений"
+  },
+  {
+    "idProfession": 216,
+    "professionName": "Старший техник"
+  },
+  {
+    "idProfession": 217,
+    "professionName": "Старший техник по интеграции прикладных решений"
+  },
+  {
+    "idProfession": 218,
+    "professionName": "Инженер по интеграции прикладных решений"
+  },
+  {
+    "idProfession": 219,
+    "professionName": "Ведущий инженер по интеграции прикладных решений"
+  },
+  {
+    "idProfession": 220,
+    "professionName": "Аналитик"
+  },
+  {
+    "idProfession": 221,
+    "professionName": "Исследователь данных"
+  },
+  {
+    "idProfession": 222,
+    "professionName": "Руководитель отдела по информационным технологиям"
+  },
+  {
+    "idProfession": 223,
+    "professionName": "Архитектор больших данных"
+  },
+  {
+    "idProfession": 224,
+    "professionName": "Инженер больших данных"
+  },
+  {
+    "idProfession": 225,
+    "professionName": "Разработчик в сфере больших данных"
+  },
+  {
+    "idProfession": 226,
+    "professionName": "Менеджер в сфере больших данных"
+  },
+  {
+    "idProfession": 227,
+    "professionName": "Консультант в сфере больших данных"
+  },
+  {
+    "idProfession": 228,
+    "professionName": "Руководитель отдела по работе с данными"
+  },
+  {
+    "idProfession": 229,
+    "professionName": "Директор по данным"
+  },
+  {
+    "idProfession": 230,
+    "professionName": "Руководитель отдела цифровых технологий"
+  },
+  {
+    "idProfession": 231,
+    "professionName": "Директор по цифровым технологиям"
+  },
+  {
+    "idProfession": 232,
+    "professionName": "Ведущий архитектор больших данных"
+  },
+  {
+    "idProfession": 233,
+    "professionName": "Ведущий инженер больших данных"
+  },
+  {
+    "idProfession": 234,
+    "professionName": "Главный исследователь данных"
+  },
+  {
+    "idProfession": 235,
+    "professionName": "Руководитель исследовательской лаборатории больших данных"
+  },
+  {
+    "idProfession": 236,
+    "professionName": "Директор по исследованиям"
+  },
+  {
+    "idProfession": 237,
+    "professionName": "Техник по сбору цифрового следа"
+  },
+  {
+    "idProfession": 238,
+    "professionName": "Специалист по сбору цифрового следа"
+  },
+  {
+    "idProfession": 239,
+    "professionName": "Аналитик данных"
+  },
+  {
+    "idProfession": 240,
+    "professionName": "Специалист по анализу данных цифрового следа"
+  },
+  {
+    "idProfession": 241,
+    "professionName": "Менеджер по управлению проектами в области обработки цифрового следа"
+  },
+  {
+    "idProfession": 242,
+    "professionName": "Руководитель направления по анализу данных"
+  },
+  {
+    "idProfession": 243,
+    "professionName": "Разработчик систем по комплексному анализу данных"
+  },
+  {
+    "idProfession": 244,
+    "professionName": "Ведущий специалист по анализу данных"
+  },
+  {
+    "idProfession": 245,
+    "professionName": "Ведущий аналитик"
+  },
+  {
+    "idProfession": 246,
+    "professionName": "Архитектор данных"
+  }
+]

@@ -3,14 +3,14 @@ from django.db import models
 
 class Profession(models.Model):
     objects = models.Manager()
-    idProf = models.IntegerField(db_column="idProfession", primary_key=True)
-    nameProf = models.TextField(db_column="professionName")
+    idProfession = models.IntegerField(db_column="idProfession", primary_key=True)
+    professionName = models.TextField(db_column="professionName")
 
     def __int__(self):
-        return self.idProf
+        return self.idProfession
 
     def __str__(self):
-        return self.nameProf
+        return self.professionName
 
     class Meta:
         db_table = 'tblprofession'
@@ -18,7 +18,7 @@ class Profession(models.Model):
 
 class GenLaborFuncContainsProf(models.Model):
     objects = models.Manager()
-    idContains = models.IntegerField(primary_key=True, db_column="idContainsProf")
+    idContainsProf = models.IntegerField(primary_key=True, db_column="idContainsProf")
     idGenLaborFunc = models.IntegerField(db_column="idGenLaborFunc")
     idProfession = models.IntegerField(db_column="idProfession")
 
@@ -28,7 +28,7 @@ class GenLaborFuncContainsProf(models.Model):
 
 class GenFuncContainsFunc(models.Model):
     objects = models.Manager()
-    idContains = models.IntegerField(primary_key=True, db_column="idContainsFunc")
+    idContainsFunc = models.IntegerField(primary_key=True, db_column="idContainsFunc")
     idGenLaborFunc = models.IntegerField(db_column="idGenLaborFunc")
     idLaborFunc = models.IntegerField(db_column="idLaborFunc")
 
@@ -38,7 +38,7 @@ class GenFuncContainsFunc(models.Model):
 
 class LaborFuncContainsKnowledge(models.Model):
     objects = models.Manager()
-    idContains = models.IntegerField(primary_key=True, db_column="idContainsKnowledge")
+    idContainsKnowledge = models.IntegerField(primary_key=True, db_column="idContainsKnowledge")
     idLaborFunc = models.IntegerField(db_column="idLaborFunc")
     idNecKnowledge = models.IntegerField(db_column="idNecKnowledge")
 
@@ -48,7 +48,7 @@ class LaborFuncContainsKnowledge(models.Model):
 
 class LaborFuncContainsSkill(models.Model):
     objects = models.Manager()
-    idContains = models.IntegerField(primary_key=True, db_column="idContainsSkill")
+    idContainsSkill = models.IntegerField(primary_key=True, db_column="idContainsSkill")
     idLaborFunc = models.IntegerField(db_column="idLaborFunc")
     idNecSkill = models.IntegerField(db_column="idNecSkill")
 

@@ -9,7 +9,7 @@ class WorkWithModels:
 
     @staticmethod
     def get_profession_id_by_name(profession_name: str):
-        return Prof.objects.get(nameProf=profession_name)
+        return Prof.objects.get(professionName=profession_name)
 
     @staticmethod
     def getSkillsKnowledge(idProf):
@@ -35,7 +35,8 @@ class WorkWithModels:
 
         idsGenLaborFunc = [fr.idGenLaborFunc for fr in GFContainsF.objects.filter(idLaborFunc__in=idsLaborFunc)]
         idsProfession = [fr.idProfession for fr in GLFContainsP.objects.filter(idGenLaborFunc__in=idsGenLaborFunc)]
-        professions = [fr.nameProf for fr in Prof.objects.filter(idProf__in=idsProfession).order_by("nameProf")]
+        professions = [fr.professionName for fr in Prof.objects.filter(idProfession__in=idsProfession).order_by(
+            "professionName")]
 
         return professions
 

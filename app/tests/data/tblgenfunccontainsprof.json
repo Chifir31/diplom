@@ -1,0 +1,1847 @@
+[
+  {
+    "idContainsProf": 1,
+    "idGenLaborFunc": 1,
+    "idProfession": 1
+  },
+  {
+    "idContainsProf": 2,
+    "idGenLaborFunc": 2,
+    "idProfession": 2
+  },
+  {
+    "idContainsProf": 3,
+    "idGenLaborFunc": 3,
+    "idProfession": 3
+  },
+  {
+    "idContainsProf": 4,
+    "idGenLaborFunc": 4,
+    "idProfession": 4
+  },
+  {
+    "idContainsProf": 5,
+    "idGenLaborFunc": 5,
+    "idProfession": 5
+  },
+  {
+    "idContainsProf": 6,
+    "idGenLaborFunc": 6,
+    "idProfession": 6
+  },
+  {
+    "idContainsProf": 7,
+    "idGenLaborFunc": 7,
+    "idProfession": 7
+  },
+  {
+    "idContainsProf": 8,
+    "idGenLaborFunc": 8,
+    "idProfession": 8
+  },
+  {
+    "idContainsProf": 9,
+    "idGenLaborFunc": 8,
+    "idProfession": 9
+  },
+  {
+    "idContainsProf": 10,
+    "idGenLaborFunc": 8,
+    "idProfession": 10
+  },
+  {
+    "idContainsProf": 11,
+    "idGenLaborFunc": 9,
+    "idProfession": 11
+  },
+  {
+    "idContainsProf": 12,
+    "idGenLaborFunc": 9,
+    "idProfession": 12
+  },
+  {
+    "idContainsProf": 13,
+    "idGenLaborFunc": 9,
+    "idProfession": 13
+  },
+  {
+    "idContainsProf": 14,
+    "idGenLaborFunc": 9,
+    "idProfession": 14
+  },
+  {
+    "idContainsProf": 15,
+    "idGenLaborFunc": 10,
+    "idProfession": 15
+  },
+  {
+    "idContainsProf": 16,
+    "idGenLaborFunc": 10,
+    "idProfession": 16
+  },
+  {
+    "idContainsProf": 17,
+    "idGenLaborFunc": 10,
+    "idProfession": 17
+  },
+  {
+    "idContainsProf": 18,
+    "idGenLaborFunc": 10,
+    "idProfession": 18
+  },
+  {
+    "idContainsProf": 19,
+    "idGenLaborFunc": 11,
+    "idProfession": 19
+  },
+  {
+    "idContainsProf": 20,
+    "idGenLaborFunc": 11,
+    "idProfession": 20
+  },
+  {
+    "idContainsProf": 21,
+    "idGenLaborFunc": 11,
+    "idProfession": 21
+  },
+  {
+    "idContainsProf": 22,
+    "idGenLaborFunc": 11,
+    "idProfession": 22
+  },
+  {
+    "idContainsProf": 23,
+    "idGenLaborFunc": 11,
+    "idProfession": 23
+  },
+  {
+    "idContainsProf": 24,
+    "idGenLaborFunc": 12,
+    "idProfession": 24
+  },
+  {
+    "idContainsProf": 25,
+    "idGenLaborFunc": 12,
+    "idProfession": 25
+  },
+  {
+    "idContainsProf": 26,
+    "idGenLaborFunc": 12,
+    "idProfession": 26
+  },
+  {
+    "idContainsProf": 27,
+    "idGenLaborFunc": 13,
+    "idProfession": 27
+  },
+  {
+    "idContainsProf": 28,
+    "idGenLaborFunc": 13,
+    "idProfession": 28
+  },
+  {
+    "idContainsProf": 29,
+    "idGenLaborFunc": 13,
+    "idProfession": 29
+  },
+  {
+    "idContainsProf": 30,
+    "idGenLaborFunc": 13,
+    "idProfession": 30
+  },
+  {
+    "idContainsProf": 31,
+    "idGenLaborFunc": 14,
+    "idProfession": 31
+  },
+  {
+    "idContainsProf": 32,
+    "idGenLaborFunc": 14,
+    "idProfession": 32
+  },
+  {
+    "idContainsProf": 33,
+    "idGenLaborFunc": 14,
+    "idProfession": 30
+  },
+  {
+    "idContainsProf": 34,
+    "idGenLaborFunc": 14,
+    "idProfession": 28
+  },
+  {
+    "idContainsProf": 35,
+    "idGenLaborFunc": 14,
+    "idProfession": 33
+  },
+  {
+    "idContainsProf": 36,
+    "idGenLaborFunc": 15,
+    "idProfession": 31
+  },
+  {
+    "idContainsProf": 37,
+    "idGenLaborFunc": 15,
+    "idProfession": 34
+  },
+  {
+    "idContainsProf": 38,
+    "idGenLaborFunc": 15,
+    "idProfession": 35
+  },
+  {
+    "idContainsProf": 39,
+    "idGenLaborFunc": 15,
+    "idProfession": 36
+  },
+  {
+    "idContainsProf": 40,
+    "idGenLaborFunc": 15,
+    "idProfession": 33
+  },
+  {
+    "idContainsProf": 41,
+    "idGenLaborFunc": 16,
+    "idProfession": 37
+  },
+  {
+    "idContainsProf": 42,
+    "idGenLaborFunc": 16,
+    "idProfession": 38
+  },
+  {
+    "idContainsProf": 43,
+    "idGenLaborFunc": 16,
+    "idProfession": 39
+  },
+  {
+    "idContainsProf": 44,
+    "idGenLaborFunc": 16,
+    "idProfession": 40
+  },
+  {
+    "idContainsProf": 45,
+    "idGenLaborFunc": 16,
+    "idProfession": 41
+  },
+  {
+    "idContainsProf": 46,
+    "idGenLaborFunc": 17,
+    "idProfession": 42
+  },
+  {
+    "idContainsProf": 47,
+    "idGenLaborFunc": 17,
+    "idProfession": 43
+  },
+  {
+    "idContainsProf": 48,
+    "idGenLaborFunc": 17,
+    "idProfession": 44
+  },
+  {
+    "idContainsProf": 49,
+    "idGenLaborFunc": 17,
+    "idProfession": 45
+  },
+  {
+    "idContainsProf": 50,
+    "idGenLaborFunc": 17,
+    "idProfession": 46
+  },
+  {
+    "idContainsProf": 51,
+    "idGenLaborFunc": 18,
+    "idProfession": 47
+  },
+  {
+    "idContainsProf": 52,
+    "idGenLaborFunc": 18,
+    "idProfession": 48
+  },
+  {
+    "idContainsProf": 53,
+    "idGenLaborFunc": 18,
+    "idProfession": 49
+  },
+  {
+    "idContainsProf": 54,
+    "idGenLaborFunc": 18,
+    "idProfession": 50
+  },
+  {
+    "idContainsProf": 55,
+    "idGenLaborFunc": 18,
+    "idProfession": 51
+  },
+  {
+    "idContainsProf": 56,
+    "idGenLaborFunc": 18,
+    "idProfession": 52
+  },
+  {
+    "idContainsProf": 57,
+    "idGenLaborFunc": 19,
+    "idProfession": 53
+  },
+  {
+    "idContainsProf": 58,
+    "idGenLaborFunc": 19,
+    "idProfession": 54
+  },
+  {
+    "idContainsProf": 59,
+    "idGenLaborFunc": 20,
+    "idProfession": 55
+  },
+  {
+    "idContainsProf": 60,
+    "idGenLaborFunc": 20,
+    "idProfession": 56
+  },
+  {
+    "idContainsProf": 61,
+    "idGenLaborFunc": 20,
+    "idProfession": 57
+  },
+  {
+    "idContainsProf": 62,
+    "idGenLaborFunc": 21,
+    "idProfession": 58
+  },
+  {
+    "idContainsProf": 63,
+    "idGenLaborFunc": 21,
+    "idProfession": 59
+  },
+  {
+    "idContainsProf": 64,
+    "idGenLaborFunc": 21,
+    "idProfession": 60
+  },
+  {
+    "idContainsProf": 65,
+    "idGenLaborFunc": 21,
+    "idProfession": 61
+  },
+  {
+    "idContainsProf": 66,
+    "idGenLaborFunc": 22,
+    "idProfession": 62
+  },
+  {
+    "idContainsProf": 67,
+    "idGenLaborFunc": 22,
+    "idProfession": 63
+  },
+  {
+    "idContainsProf": 68,
+    "idGenLaborFunc": 22,
+    "idProfession": 64
+  },
+  {
+    "idContainsProf": 69,
+    "idGenLaborFunc": 22,
+    "idProfession": 65
+  },
+  {
+    "idContainsProf": 70,
+    "idGenLaborFunc": 22,
+    "idProfession": 66
+  },
+  {
+    "idContainsProf": 71,
+    "idGenLaborFunc": 23,
+    "idProfession": 67
+  },
+  {
+    "idContainsProf": 72,
+    "idGenLaborFunc": 23,
+    "idProfession": 68
+  },
+  {
+    "idContainsProf": 73,
+    "idGenLaborFunc": 23,
+    "idProfession": 69
+  },
+  {
+    "idContainsProf": 74,
+    "idGenLaborFunc": 23,
+    "idProfession": 70
+  },
+  {
+    "idContainsProf": 75,
+    "idGenLaborFunc": 23,
+    "idProfession": 71
+  },
+  {
+    "idContainsProf": 76,
+    "idGenLaborFunc": 24,
+    "idProfession": 72
+  },
+  {
+    "idContainsProf": 77,
+    "idGenLaborFunc": 24,
+    "idProfession": 73
+  },
+  {
+    "idContainsProf": 78,
+    "idGenLaborFunc": 25,
+    "idProfession": 74
+  },
+  {
+    "idContainsProf": 79,
+    "idGenLaborFunc": 25,
+    "idProfession": 75
+  },
+  {
+    "idContainsProf": 80,
+    "idGenLaborFunc": 25,
+    "idProfession": 76
+  },
+  {
+    "idContainsProf": 81,
+    "idGenLaborFunc": 26,
+    "idProfession": 77
+  },
+  {
+    "idContainsProf": 82,
+    "idGenLaborFunc": 26,
+    "idProfession": 78
+  },
+  {
+    "idContainsProf": 83,
+    "idGenLaborFunc": 27,
+    "idProfession": 78
+  },
+  {
+    "idContainsProf": 84,
+    "idGenLaborFunc": 27,
+    "idProfession": 79
+  },
+  {
+    "idContainsProf": 85,
+    "idGenLaborFunc": 28,
+    "idProfession": 80
+  },
+  {
+    "idContainsProf": 86,
+    "idGenLaborFunc": 28,
+    "idProfession": 81
+  },
+  {
+    "idContainsProf": 87,
+    "idGenLaborFunc": 28,
+    "idProfession": 79
+  },
+  {
+    "idContainsProf": 88,
+    "idGenLaborFunc": 29,
+    "idProfession": 82
+  },
+  {
+    "idContainsProf": 89,
+    "idGenLaborFunc": 29,
+    "idProfession": 83
+  },
+  {
+    "idContainsProf": 90,
+    "idGenLaborFunc": 30,
+    "idProfession": 82
+  },
+  {
+    "idContainsProf": 91,
+    "idGenLaborFunc": 30,
+    "idProfession": 83
+  },
+  {
+    "idContainsProf": 92,
+    "idGenLaborFunc": 31,
+    "idProfession": 82
+  },
+  {
+    "idContainsProf": 93,
+    "idGenLaborFunc": 31,
+    "idProfession": 83
+  },
+  {
+    "idContainsProf": 94,
+    "idGenLaborFunc": 32,
+    "idProfession": 84
+  },
+  {
+    "idContainsProf": 95,
+    "idGenLaborFunc": 32,
+    "idProfession": 85
+  },
+  {
+    "idContainsProf": 96,
+    "idGenLaborFunc": 32,
+    "idProfession": 86
+  },
+  {
+    "idContainsProf": 97,
+    "idGenLaborFunc": 33,
+    "idProfession": 87
+  },
+  {
+    "idContainsProf": 98,
+    "idGenLaborFunc": 33,
+    "idProfession": 88
+  },
+  {
+    "idContainsProf": 99,
+    "idGenLaborFunc": 34,
+    "idProfession": 89
+  },
+  {
+    "idContainsProf": 100,
+    "idGenLaborFunc": 34,
+    "idProfession": 90
+  },
+  {
+    "idContainsProf": 101,
+    "idGenLaborFunc": 34,
+    "idProfession": 52
+  },
+  {
+    "idContainsProf": 102,
+    "idGenLaborFunc": 35,
+    "idProfession": 91
+  },
+  {
+    "idContainsProf": 103,
+    "idGenLaborFunc": 35,
+    "idProfession": 90
+  },
+  {
+    "idContainsProf": 104,
+    "idGenLaborFunc": 35,
+    "idProfession": 34
+  },
+  {
+    "idContainsProf": 105,
+    "idGenLaborFunc": 35,
+    "idProfession": 3
+  },
+  {
+    "idContainsProf": 106,
+    "idGenLaborFunc": 36,
+    "idProfession": 92
+  },
+  {
+    "idContainsProf": 107,
+    "idGenLaborFunc": 36,
+    "idProfession": 90
+  },
+  {
+    "idContainsProf": 108,
+    "idGenLaborFunc": 36,
+    "idProfession": 93
+  },
+  {
+    "idContainsProf": 109,
+    "idGenLaborFunc": 37,
+    "idProfession": 94
+  },
+  {
+    "idContainsProf": 110,
+    "idGenLaborFunc": 37,
+    "idProfession": 3
+  },
+  {
+    "idContainsProf": 111,
+    "idGenLaborFunc": 38,
+    "idProfession": 95
+  },
+  {
+    "idContainsProf": 112,
+    "idGenLaborFunc": 39,
+    "idProfession": 96
+  },
+  {
+    "idContainsProf": 113,
+    "idGenLaborFunc": 40,
+    "idProfession": 97
+  },
+  {
+    "idContainsProf": 114,
+    "idGenLaborFunc": 40,
+    "idProfession": 25
+  },
+  {
+    "idContainsProf": 115,
+    "idGenLaborFunc": 40,
+    "idProfession": 98
+  },
+  {
+    "idContainsProf": 116,
+    "idGenLaborFunc": 40,
+    "idProfession": 99
+  },
+  {
+    "idContainsProf": 117,
+    "idGenLaborFunc": 40,
+    "idProfession": 100
+  },
+  {
+    "idContainsProf": 118,
+    "idGenLaborFunc": 41,
+    "idProfession": 101
+  },
+  {
+    "idContainsProf": 119,
+    "idGenLaborFunc": 41,
+    "idProfession": 102
+  },
+  {
+    "idContainsProf": 120,
+    "idGenLaborFunc": 41,
+    "idProfession": 29
+  },
+  {
+    "idContainsProf": 121,
+    "idGenLaborFunc": 41,
+    "idProfession": 103
+  },
+  {
+    "idContainsProf": 122,
+    "idGenLaborFunc": 42,
+    "idProfession": 104
+  },
+  {
+    "idContainsProf": 123,
+    "idGenLaborFunc": 42,
+    "idProfession": 105
+  },
+  {
+    "idContainsProf": 124,
+    "idGenLaborFunc": 42,
+    "idProfession": 33
+  },
+  {
+    "idContainsProf": 125,
+    "idGenLaborFunc": 42,
+    "idProfession": 106
+  },
+  {
+    "idContainsProf": 126,
+    "idGenLaborFunc": 43,
+    "idProfession": 107
+  },
+  {
+    "idContainsProf": 127,
+    "idGenLaborFunc": 43,
+    "idProfession": 108
+  },
+  {
+    "idContainsProf": 128,
+    "idGenLaborFunc": 43,
+    "idProfession": 109
+  },
+  {
+    "idContainsProf": 129,
+    "idGenLaborFunc": 43,
+    "idProfession": 39
+  },
+  {
+    "idContainsProf": 130,
+    "idGenLaborFunc": 43,
+    "idProfession": 110
+  },
+  {
+    "idContainsProf": 131,
+    "idGenLaborFunc": 43,
+    "idProfession": 111
+  },
+  {
+    "idContainsProf": 132,
+    "idGenLaborFunc": 43,
+    "idProfession": 112
+  },
+  {
+    "idContainsProf": 133,
+    "idGenLaborFunc": 43,
+    "idProfession": 113
+  },
+  {
+    "idContainsProf": 134,
+    "idGenLaborFunc": 44,
+    "idProfession": 114
+  },
+  {
+    "idContainsProf": 135,
+    "idGenLaborFunc": 44,
+    "idProfession": 115
+  },
+  {
+    "idContainsProf": 136,
+    "idGenLaborFunc": 44,
+    "idProfession": 116
+  },
+  {
+    "idContainsProf": 137,
+    "idGenLaborFunc": 45,
+    "idProfession": 117
+  },
+  {
+    "idContainsProf": 138,
+    "idGenLaborFunc": 45,
+    "idProfession": 118
+  },
+  {
+    "idContainsProf": 139,
+    "idGenLaborFunc": 45,
+    "idProfession": 119
+  },
+  {
+    "idContainsProf": 140,
+    "idGenLaborFunc": 46,
+    "idProfession": 120
+  },
+  {
+    "idContainsProf": 141,
+    "idGenLaborFunc": 47,
+    "idProfession": 121
+  },
+  {
+    "idContainsProf": 142,
+    "idGenLaborFunc": 48,
+    "idProfession": 122
+  },
+  {
+    "idContainsProf": 143,
+    "idGenLaborFunc": 49,
+    "idProfession": 123
+  },
+  {
+    "idContainsProf": 144,
+    "idGenLaborFunc": 49,
+    "idProfession": 124
+  },
+  {
+    "idContainsProf": 145,
+    "idGenLaborFunc": 50,
+    "idProfession": 123
+  },
+  {
+    "idContainsProf": 146,
+    "idGenLaborFunc": 51,
+    "idProfession": 123
+  },
+  {
+    "idContainsProf": 147,
+    "idGenLaborFunc": 51,
+    "idProfession": 125
+  },
+  {
+    "idContainsProf": 148,
+    "idGenLaborFunc": 51,
+    "idProfession": 126
+  },
+  {
+    "idContainsProf": 149,
+    "idGenLaborFunc": 52,
+    "idProfession": 127
+  },
+  {
+    "idContainsProf": 150,
+    "idGenLaborFunc": 52,
+    "idProfession": 128
+  },
+  {
+    "idContainsProf": 151,
+    "idGenLaborFunc": 52,
+    "idProfession": 129
+  },
+  {
+    "idContainsProf": 152,
+    "idGenLaborFunc": 53,
+    "idProfession": 130
+  },
+  {
+    "idContainsProf": 153,
+    "idGenLaborFunc": 53,
+    "idProfession": 131
+  },
+  {
+    "idContainsProf": 154,
+    "idGenLaborFunc": 53,
+    "idProfession": 26
+  },
+  {
+    "idContainsProf": 155,
+    "idGenLaborFunc": 53,
+    "idProfession": 132
+  },
+  {
+    "idContainsProf": 156,
+    "idGenLaborFunc": 54,
+    "idProfession": 133
+  },
+  {
+    "idContainsProf": 157,
+    "idGenLaborFunc": 54,
+    "idProfession": 28
+  },
+  {
+    "idContainsProf": 158,
+    "idGenLaborFunc": 55,
+    "idProfession": 134
+  },
+  {
+    "idContainsProf": 159,
+    "idGenLaborFunc": 55,
+    "idProfession": 135
+  },
+  {
+    "idContainsProf": 160,
+    "idGenLaborFunc": 56,
+    "idProfession": 134
+  },
+  {
+    "idContainsProf": 161,
+    "idGenLaborFunc": 56,
+    "idProfession": 28
+  },
+  {
+    "idContainsProf": 162,
+    "idGenLaborFunc": 56,
+    "idProfession": 135
+  },
+  {
+    "idContainsProf": 163,
+    "idGenLaborFunc": 57,
+    "idProfession": 136
+  },
+  {
+    "idContainsProf": 164,
+    "idGenLaborFunc": 57,
+    "idProfession": 137
+  },
+  {
+    "idContainsProf": 165,
+    "idGenLaborFunc": 57,
+    "idProfession": 34
+  },
+  {
+    "idContainsProf": 166,
+    "idGenLaborFunc": 57,
+    "idProfession": 29
+  },
+  {
+    "idContainsProf": 167,
+    "idGenLaborFunc": 58,
+    "idProfession": 138
+  },
+  {
+    "idContainsProf": 168,
+    "idGenLaborFunc": 58,
+    "idProfession": 139
+  },
+  {
+    "idContainsProf": 169,
+    "idGenLaborFunc": 59,
+    "idProfession": 140
+  },
+  {
+    "idContainsProf": 170,
+    "idGenLaborFunc": 59,
+    "idProfession": 141
+  },
+  {
+    "idContainsProf": 171,
+    "idGenLaborFunc": 60,
+    "idProfession": 142
+  },
+  {
+    "idContainsProf": 172,
+    "idGenLaborFunc": 60,
+    "idProfession": 140
+  },
+  {
+    "idContainsProf": 173,
+    "idGenLaborFunc": 60,
+    "idProfession": 141
+  },
+  {
+    "idContainsProf": 174,
+    "idGenLaborFunc": 61,
+    "idProfession": 143
+  },
+  {
+    "idContainsProf": 175,
+    "idGenLaborFunc": 61,
+    "idProfession": 142
+  },
+  {
+    "idContainsProf": 176,
+    "idGenLaborFunc": 61,
+    "idProfession": 141
+  },
+  {
+    "idContainsProf": 177,
+    "idGenLaborFunc": 62,
+    "idProfession": 143
+  },
+  {
+    "idContainsProf": 178,
+    "idGenLaborFunc": 62,
+    "idProfession": 142
+  },
+  {
+    "idContainsProf": 179,
+    "idGenLaborFunc": 62,
+    "idProfession": 141
+  },
+  {
+    "idContainsProf": 180,
+    "idGenLaborFunc": 63,
+    "idProfession": 142
+  },
+  {
+    "idContainsProf": 181,
+    "idGenLaborFunc": 63,
+    "idProfession": 144
+  },
+  {
+    "idContainsProf": 182,
+    "idGenLaborFunc": 63,
+    "idProfession": 140
+  },
+  {
+    "idContainsProf": 183,
+    "idGenLaborFunc": 63,
+    "idProfession": 141
+  },
+  {
+    "idContainsProf": 184,
+    "idGenLaborFunc": 64,
+    "idProfession": 145
+  },
+  {
+    "idContainsProf": 185,
+    "idGenLaborFunc": 64,
+    "idProfession": 146
+  },
+  {
+    "idContainsProf": 186,
+    "idGenLaborFunc": 64,
+    "idProfession": 147
+  },
+  {
+    "idContainsProf": 187,
+    "idGenLaborFunc": 64,
+    "idProfession": 148
+  },
+  {
+    "idContainsProf": 188,
+    "idGenLaborFunc": 65,
+    "idProfession": 149
+  },
+  {
+    "idContainsProf": 189,
+    "idGenLaborFunc": 65,
+    "idProfession": 150
+  },
+  {
+    "idContainsProf": 190,
+    "idGenLaborFunc": 65,
+    "idProfession": 151
+  },
+  {
+    "idContainsProf": 191,
+    "idGenLaborFunc": 66,
+    "idProfession": 152
+  },
+  {
+    "idContainsProf": 192,
+    "idGenLaborFunc": 66,
+    "idProfession": 149
+  },
+  {
+    "idContainsProf": 193,
+    "idGenLaborFunc": 67,
+    "idProfession": 153
+  },
+  {
+    "idContainsProf": 194,
+    "idGenLaborFunc": 67,
+    "idProfession": 154
+  },
+  {
+    "idContainsProf": 195,
+    "idGenLaborFunc": 67,
+    "idProfession": 155
+  },
+  {
+    "idContainsProf": 196,
+    "idGenLaborFunc": 67,
+    "idProfession": 4
+  },
+  {
+    "idContainsProf": 197,
+    "idGenLaborFunc": 67,
+    "idProfession": 156
+  },
+  {
+    "idContainsProf": 198,
+    "idGenLaborFunc": 67,
+    "idProfession": 157
+  },
+  {
+    "idContainsProf": 199,
+    "idGenLaborFunc": 67,
+    "idProfession": 158
+  },
+  {
+    "idContainsProf": 200,
+    "idGenLaborFunc": 67,
+    "idProfession": 159
+  },
+  {
+    "idContainsProf": 201,
+    "idGenLaborFunc": 67,
+    "idProfession": 78
+  },
+  {
+    "idContainsProf": 202,
+    "idGenLaborFunc": 67,
+    "idProfession": 160
+  },
+  {
+    "idContainsProf": 203,
+    "idGenLaborFunc": 67,
+    "idProfession": 161
+  },
+  {
+    "idContainsProf": 204,
+    "idGenLaborFunc": 67,
+    "idProfession": 162
+  },
+  {
+    "idContainsProf": 205,
+    "idGenLaborFunc": 68,
+    "idProfession": 32
+  },
+  {
+    "idContainsProf": 206,
+    "idGenLaborFunc": 68,
+    "idProfession": 163
+  },
+  {
+    "idContainsProf": 207,
+    "idGenLaborFunc": 68,
+    "idProfession": 164
+  },
+  {
+    "idContainsProf": 208,
+    "idGenLaborFunc": 68,
+    "idProfession": 165
+  },
+  {
+    "idContainsProf": 209,
+    "idGenLaborFunc": 69,
+    "idProfession": 166
+  },
+  {
+    "idContainsProf": 210,
+    "idGenLaborFunc": 69,
+    "idProfession": 167
+  },
+  {
+    "idContainsProf": 211,
+    "idGenLaborFunc": 70,
+    "idProfession": 168
+  },
+  {
+    "idContainsProf": 212,
+    "idGenLaborFunc": 70,
+    "idProfession": 169
+  },
+  {
+    "idContainsProf": 213,
+    "idGenLaborFunc": 70,
+    "idProfession": 170
+  },
+  {
+    "idContainsProf": 214,
+    "idGenLaborFunc": 71,
+    "idProfession": 171
+  },
+  {
+    "idContainsProf": 215,
+    "idGenLaborFunc": 72,
+    "idProfession": 172
+  },
+  {
+    "idContainsProf": 216,
+    "idGenLaborFunc": 72,
+    "idProfession": 101
+  },
+  {
+    "idContainsProf": 217,
+    "idGenLaborFunc": 73,
+    "idProfession": 101
+  },
+  {
+    "idContainsProf": 218,
+    "idGenLaborFunc": 73,
+    "idProfession": 173
+  },
+  {
+    "idContainsProf": 219,
+    "idGenLaborFunc": 73,
+    "idProfession": 174
+  },
+  {
+    "idContainsProf": 220,
+    "idGenLaborFunc": 73,
+    "idProfession": 175
+  },
+  {
+    "idContainsProf": 221,
+    "idGenLaborFunc": 73,
+    "idProfession": 176
+  },
+  {
+    "idContainsProf": 222,
+    "idGenLaborFunc": 74,
+    "idProfession": 177
+  },
+  {
+    "idContainsProf": 223,
+    "idGenLaborFunc": 74,
+    "idProfession": 178
+  },
+  {
+    "idContainsProf": 224,
+    "idGenLaborFunc": 74,
+    "idProfession": 179
+  },
+  {
+    "idContainsProf": 225,
+    "idGenLaborFunc": 74,
+    "idProfession": 39
+  },
+  {
+    "idContainsProf": 226,
+    "idGenLaborFunc": 74,
+    "idProfession": 180
+  },
+  {
+    "idContainsProf": 227,
+    "idGenLaborFunc": 75,
+    "idProfession": 181
+  },
+  {
+    "idContainsProf": 228,
+    "idGenLaborFunc": 75,
+    "idProfession": 145
+  },
+  {
+    "idContainsProf": 229,
+    "idGenLaborFunc": 75,
+    "idProfession": 146
+  },
+  {
+    "idContainsProf": 230,
+    "idGenLaborFunc": 75,
+    "idProfession": 147
+  },
+  {
+    "idContainsProf": 231,
+    "idGenLaborFunc": 76,
+    "idProfession": 182
+  },
+  {
+    "idContainsProf": 232,
+    "idGenLaborFunc": 76,
+    "idProfession": 183
+  },
+  {
+    "idContainsProf": 233,
+    "idGenLaborFunc": 76,
+    "idProfession": 184
+  },
+  {
+    "idContainsProf": 234,
+    "idGenLaborFunc": 76,
+    "idProfession": 185
+  },
+  {
+    "idContainsProf": 235,
+    "idGenLaborFunc": 76,
+    "idProfession": 186
+  },
+  {
+    "idContainsProf": 236,
+    "idGenLaborFunc": 76,
+    "idProfession": 153
+  },
+  {
+    "idContainsProf": 237,
+    "idGenLaborFunc": 76,
+    "idProfession": 154
+  },
+  {
+    "idContainsProf": 238,
+    "idGenLaborFunc": 76,
+    "idProfession": 155
+  },
+  {
+    "idContainsProf": 239,
+    "idGenLaborFunc": 76,
+    "idProfession": 4
+  },
+  {
+    "idContainsProf": 240,
+    "idGenLaborFunc": 77,
+    "idProfession": 187
+  },
+  {
+    "idContainsProf": 241,
+    "idGenLaborFunc": 77,
+    "idProfession": 188
+  },
+  {
+    "idContainsProf": 242,
+    "idGenLaborFunc": 77,
+    "idProfession": 189
+  },
+  {
+    "idContainsProf": 243,
+    "idGenLaborFunc": 77,
+    "idProfession": 190
+  },
+  {
+    "idContainsProf": 244,
+    "idGenLaborFunc": 77,
+    "idProfession": 191
+  },
+  {
+    "idContainsProf": 245,
+    "idGenLaborFunc": 78,
+    "idProfession": 192
+  },
+  {
+    "idContainsProf": 246,
+    "idGenLaborFunc": 78,
+    "idProfession": 193
+  },
+  {
+    "idContainsProf": 247,
+    "idGenLaborFunc": 78,
+    "idProfession": 194
+  },
+  {
+    "idContainsProf": 248,
+    "idGenLaborFunc": 78,
+    "idProfession": 195
+  },
+  {
+    "idContainsProf": 249,
+    "idGenLaborFunc": 79,
+    "idProfession": 145
+  },
+  {
+    "idContainsProf": 250,
+    "idGenLaborFunc": 79,
+    "idProfession": 146
+  },
+  {
+    "idContainsProf": 251,
+    "idGenLaborFunc": 79,
+    "idProfession": 147
+  },
+  {
+    "idContainsProf": 252,
+    "idGenLaborFunc": 80,
+    "idProfession": 149
+  },
+  {
+    "idContainsProf": 253,
+    "idGenLaborFunc": 80,
+    "idProfession": 160
+  },
+  {
+    "idContainsProf": 254,
+    "idGenLaborFunc": 80,
+    "idProfession": 161
+  },
+  {
+    "idContainsProf": 255,
+    "idGenLaborFunc": 80,
+    "idProfession": 162
+  },
+  {
+    "idContainsProf": 256,
+    "idGenLaborFunc": 80,
+    "idProfession": 184
+  },
+  {
+    "idContainsProf": 257,
+    "idGenLaborFunc": 80,
+    "idProfession": 185
+  },
+  {
+    "idContainsProf": 258,
+    "idGenLaborFunc": 80,
+    "idProfession": 186
+  },
+  {
+    "idContainsProf": 259,
+    "idGenLaborFunc": 80,
+    "idProfession": 153
+  },
+  {
+    "idContainsProf": 260,
+    "idGenLaborFunc": 80,
+    "idProfession": 154
+  },
+  {
+    "idContainsProf": 261,
+    "idGenLaborFunc": 80,
+    "idProfession": 155
+  },
+  {
+    "idContainsProf": 262,
+    "idGenLaborFunc": 80,
+    "idProfession": 4
+  },
+  {
+    "idContainsProf": 263,
+    "idGenLaborFunc": 81,
+    "idProfession": 149
+  },
+  {
+    "idContainsProf": 264,
+    "idGenLaborFunc": 81,
+    "idProfession": 160
+  },
+  {
+    "idContainsProf": 265,
+    "idGenLaborFunc": 81,
+    "idProfession": 161
+  },
+  {
+    "idContainsProf": 266,
+    "idGenLaborFunc": 81,
+    "idProfession": 162
+  },
+  {
+    "idContainsProf": 267,
+    "idGenLaborFunc": 81,
+    "idProfession": 184
+  },
+  {
+    "idContainsProf": 268,
+    "idGenLaborFunc": 81,
+    "idProfession": 185
+  },
+  {
+    "idContainsProf": 269,
+    "idGenLaborFunc": 81,
+    "idProfession": 186
+  },
+  {
+    "idContainsProf": 270,
+    "idGenLaborFunc": 81,
+    "idProfession": 153
+  },
+  {
+    "idContainsProf": 271,
+    "idGenLaborFunc": 81,
+    "idProfession": 154
+  },
+  {
+    "idContainsProf": 272,
+    "idGenLaborFunc": 81,
+    "idProfession": 155
+  },
+  {
+    "idContainsProf": 273,
+    "idGenLaborFunc": 81,
+    "idProfession": 4
+  },
+  {
+    "idContainsProf": 274,
+    "idGenLaborFunc": 82,
+    "idProfession": 196
+  },
+  {
+    "idContainsProf": 275,
+    "idGenLaborFunc": 82,
+    "idProfession": 197
+  },
+  {
+    "idContainsProf": 276,
+    "idGenLaborFunc": 82,
+    "idProfession": 198
+  },
+  {
+    "idContainsProf": 277,
+    "idGenLaborFunc": 82,
+    "idProfession": 193
+  },
+  {
+    "idContainsProf": 278,
+    "idGenLaborFunc": 83,
+    "idProfession": 192
+  },
+  {
+    "idContainsProf": 279,
+    "idGenLaborFunc": 83,
+    "idProfession": 193
+  },
+  {
+    "idContainsProf": 280,
+    "idGenLaborFunc": 83,
+    "idProfession": 194
+  },
+  {
+    "idContainsProf": 281,
+    "idGenLaborFunc": 83,
+    "idProfession": 195
+  },
+  {
+    "idContainsProf": 282,
+    "idGenLaborFunc": 84,
+    "idProfession": 199
+  },
+  {
+    "idContainsProf": 283,
+    "idGenLaborFunc": 84,
+    "idProfession": 200
+  },
+  {
+    "idContainsProf": 284,
+    "idGenLaborFunc": 84,
+    "idProfession": 201
+  },
+  {
+    "idContainsProf": 285,
+    "idGenLaborFunc": 85,
+    "idProfession": 202
+  },
+  {
+    "idContainsProf": 286,
+    "idGenLaborFunc": 85,
+    "idProfession": 203
+  },
+  {
+    "idContainsProf": 287,
+    "idGenLaborFunc": 85,
+    "idProfession": 204
+  },
+  {
+    "idContainsProf": 288,
+    "idGenLaborFunc": 85,
+    "idProfession": 205
+  },
+  {
+    "idContainsProf": 289,
+    "idGenLaborFunc": 86,
+    "idProfession": 202
+  },
+  {
+    "idContainsProf": 290,
+    "idGenLaborFunc": 86,
+    "idProfession": 203
+  },
+  {
+    "idContainsProf": 291,
+    "idGenLaborFunc": 86,
+    "idProfession": 204
+  },
+  {
+    "idContainsProf": 292,
+    "idGenLaborFunc": 86,
+    "idProfession": 205
+  },
+  {
+    "idContainsProf": 293,
+    "idGenLaborFunc": 87,
+    "idProfession": 202
+  },
+  {
+    "idContainsProf": 294,
+    "idGenLaborFunc": 87,
+    "idProfession": 203
+  },
+  {
+    "idContainsProf": 295,
+    "idGenLaborFunc": 87,
+    "idProfession": 204
+  },
+  {
+    "idContainsProf": 296,
+    "idGenLaborFunc": 87,
+    "idProfession": 205
+  },
+  {
+    "idContainsProf": 297,
+    "idGenLaborFunc": 88,
+    "idProfession": 202
+  },
+  {
+    "idContainsProf": 298,
+    "idGenLaborFunc": 88,
+    "idProfession": 203
+  },
+  {
+    "idContainsProf": 299,
+    "idGenLaborFunc": 88,
+    "idProfession": 204
+  },
+  {
+    "idContainsProf": 300,
+    "idGenLaborFunc": 88,
+    "idProfession": 205
+  },
+  {
+    "idContainsProf": 301,
+    "idGenLaborFunc": 89,
+    "idProfession": 202
+  },
+  {
+    "idContainsProf": 302,
+    "idGenLaborFunc": 89,
+    "idProfession": 203
+  },
+  {
+    "idContainsProf": 303,
+    "idGenLaborFunc": 89,
+    "idProfession": 204
+  },
+  {
+    "idContainsProf": 304,
+    "idGenLaborFunc": 89,
+    "idProfession": 205
+  },
+  {
+    "idContainsProf": 305,
+    "idGenLaborFunc": 90,
+    "idProfession": 202
+  },
+  {
+    "idContainsProf": 306,
+    "idGenLaborFunc": 90,
+    "idProfession": 203
+  },
+  {
+    "idContainsProf": 307,
+    "idGenLaborFunc": 90,
+    "idProfession": 204
+  },
+  {
+    "idContainsProf": 308,
+    "idGenLaborFunc": 90,
+    "idProfession": 205
+  },
+  {
+    "idContainsProf": 309,
+    "idGenLaborFunc": 91,
+    "idProfession": 202
+  },
+  {
+    "idContainsProf": 310,
+    "idGenLaborFunc": 91,
+    "idProfession": 203
+  },
+  {
+    "idContainsProf": 311,
+    "idGenLaborFunc": 91,
+    "idProfession": 204
+  },
+  {
+    "idContainsProf": 312,
+    "idGenLaborFunc": 91,
+    "idProfession": 205
+  },
+  {
+    "idContainsProf": 313,
+    "idGenLaborFunc": 92,
+    "idProfession": 202
+  },
+  {
+    "idContainsProf": 314,
+    "idGenLaborFunc": 92,
+    "idProfession": 203
+  },
+  {
+    "idContainsProf": 315,
+    "idGenLaborFunc": 92,
+    "idProfession": 204
+  },
+  {
+    "idContainsProf": 316,
+    "idGenLaborFunc": 92,
+    "idProfession": 205
+  },
+  {
+    "idContainsProf": 317,
+    "idGenLaborFunc": 93,
+    "idProfession": 202
+  },
+  {
+    "idContainsProf": 318,
+    "idGenLaborFunc": 93,
+    "idProfession": 203
+  },
+  {
+    "idContainsProf": 319,
+    "idGenLaborFunc": 93,
+    "idProfession": 204
+  },
+  {
+    "idContainsProf": 320,
+    "idGenLaborFunc": 93,
+    "idProfession": 205
+  },
+  {
+    "idContainsProf": 321,
+    "idGenLaborFunc": 94,
+    "idProfession": 206
+  },
+  {
+    "idContainsProf": 322,
+    "idGenLaborFunc": 94,
+    "idProfession": 207
+  },
+  {
+    "idContainsProf": 323,
+    "idGenLaborFunc": 94,
+    "idProfession": 208
+  },
+  {
+    "idContainsProf": 324,
+    "idGenLaborFunc": 95,
+    "idProfession": 209
+  },
+  {
+    "idContainsProf": 325,
+    "idGenLaborFunc": 95,
+    "idProfession": 3
+  },
+  {
+    "idContainsProf": 326,
+    "idGenLaborFunc": 96,
+    "idProfession": 210
+  },
+  {
+    "idContainsProf": 327,
+    "idGenLaborFunc": 96,
+    "idProfession": 211
+  },
+  {
+    "idContainsProf": 328,
+    "idGenLaborFunc": 96,
+    "idProfession": 212
+  },
+  {
+    "idContainsProf": 329,
+    "idGenLaborFunc": 97,
+    "idProfession": 213
+  },
+  {
+    "idContainsProf": 330,
+    "idGenLaborFunc": 97,
+    "idProfession": 214
+  },
+  {
+    "idContainsProf": 331,
+    "idGenLaborFunc": 97,
+    "idProfession": 82
+  },
+  {
+    "idContainsProf": 332,
+    "idGenLaborFunc": 98,
+    "idProfession": 132
+  },
+  {
+    "idContainsProf": 333,
+    "idGenLaborFunc": 98,
+    "idProfession": 215
+  },
+  {
+    "idContainsProf": 334,
+    "idGenLaborFunc": 99,
+    "idProfession": 216
+  },
+  {
+    "idContainsProf": 335,
+    "idGenLaborFunc": 99,
+    "idProfession": 217
+  },
+  {
+    "idContainsProf": 336,
+    "idGenLaborFunc": 100,
+    "idProfession": 34
+  },
+  {
+    "idContainsProf": 337,
+    "idGenLaborFunc": 100,
+    "idProfession": 218
+  },
+  {
+    "idContainsProf": 338,
+    "idGenLaborFunc": 101,
+    "idProfession": 41
+  },
+  {
+    "idContainsProf": 339,
+    "idGenLaborFunc": 101,
+    "idProfession": 219
+  },
+  {
+    "idContainsProf": 340,
+    "idGenLaborFunc": 102,
+    "idProfession": 220
+  },
+  {
+    "idContainsProf": 341,
+    "idGenLaborFunc": 102,
+    "idProfession": 221
+  },
+  {
+    "idContainsProf": 342,
+    "idGenLaborFunc": 102,
+    "idProfession": 222
+  },
+  {
+    "idContainsProf": 343,
+    "idGenLaborFunc": 103,
+    "idProfession": 223
+  },
+  {
+    "idContainsProf": 344,
+    "idGenLaborFunc": 103,
+    "idProfession": 224
+  },
+  {
+    "idContainsProf": 345,
+    "idGenLaborFunc": 103,
+    "idProfession": 225
+  },
+  {
+    "idContainsProf": 346,
+    "idGenLaborFunc": 103,
+    "idProfession": 226
+  },
+  {
+    "idContainsProf": 347,
+    "idGenLaborFunc": 103,
+    "idProfession": 227
+  },
+  {
+    "idContainsProf": 348,
+    "idGenLaborFunc": 103,
+    "idProfession": 228
+  },
+  {
+    "idContainsProf": 349,
+    "idGenLaborFunc": 103,
+    "idProfession": 229
+  },
+  {
+    "idContainsProf": 350,
+    "idGenLaborFunc": 103,
+    "idProfession": 230
+  },
+  {
+    "idContainsProf": 351,
+    "idGenLaborFunc": 103,
+    "idProfession": 231
+  },
+  {
+    "idContainsProf": 352,
+    "idGenLaborFunc": 104,
+    "idProfession": 232
+  },
+  {
+    "idContainsProf": 353,
+    "idGenLaborFunc": 104,
+    "idProfession": 233
+  },
+  {
+    "idContainsProf": 354,
+    "idGenLaborFunc": 104,
+    "idProfession": 225
+  },
+  {
+    "idContainsProf": 355,
+    "idGenLaborFunc": 104,
+    "idProfession": 230
+  },
+  {
+    "idContainsProf": 356,
+    "idGenLaborFunc": 104,
+    "idProfession": 231
+  },
+  {
+    "idContainsProf": 357,
+    "idGenLaborFunc": 105,
+    "idProfession": 234
+  },
+  {
+    "idContainsProf": 358,
+    "idGenLaborFunc": 105,
+    "idProfession": 235
+  },
+  {
+    "idContainsProf": 359,
+    "idGenLaborFunc": 105,
+    "idProfession": 236
+  },
+  {
+    "idContainsProf": 360,
+    "idGenLaborFunc": 106,
+    "idProfession": 237
+  },
+  {
+    "idContainsProf": 361,
+    "idGenLaborFunc": 106,
+    "idProfession": 238
+  },
+  {
+    "idContainsProf": 362,
+    "idGenLaborFunc": 107,
+    "idProfession": 239
+  },
+  {
+    "idContainsProf": 363,
+    "idGenLaborFunc": 107,
+    "idProfession": 240
+  },
+  {
+    "idContainsProf": 364,
+    "idGenLaborFunc": 108,
+    "idProfession": 241
+  },
+  {
+    "idContainsProf": 365,
+    "idGenLaborFunc": 108,
+    "idProfession": 242
+  },
+  {
+    "idContainsProf": 366,
+    "idGenLaborFunc": 109,
+    "idProfession": 243
+  },
+  {
+    "idContainsProf": 367,
+    "idGenLaborFunc": 109,
+    "idProfession": 244
+  },
+  {
+    "idContainsProf": 368,
+    "idGenLaborFunc": 109,
+    "idProfession": 245
+  },
+  {
+    "idContainsProf": 369,
+    "idGenLaborFunc": 109,
+    "idProfession": 246
+  }
+]

@@ -14,7 +14,7 @@ class Migration(migrations.Migration):
         migrations.CreateModel(
             name='GenFuncContainsFunc',
             fields=[
-                ('idContains', models.IntegerField(db_column='idContainsFunc', primary_key=True, serialize=False)),
+                ('idContainsFunc', models.IntegerField(db_column='idContainsFunc', primary_key=True, serialize=False)),
                 ('idGenLaborFunc', models.IntegerField(db_column='idGenLaborFunc')),
                 ('idLaborFunc', models.IntegerField(db_column='idLaborFunc')),
             ],
@@ -25,7 +25,7 @@ class Migration(migrations.Migration):
         migrations.CreateModel(
             name='GenLaborFuncContainsProf',
             fields=[
-                ('idContains', models.IntegerField(db_column='idContainsProf', primary_key=True, serialize=False)),
+                ('idContainsProf', models.IntegerField(db_column='idContainsProf', primary_key=True, serialize=False)),
                 ('idGenLaborFunc', models.IntegerField(db_column='idGenLaborFunc')),
                 ('idProfession', models.IntegerField(db_column='idProfession')),
             ],
@@ -36,7 +36,7 @@ class Migration(migrations.Migration):
         migrations.CreateModel(
             name='LaborFuncContainsKnowledge',
             fields=[
-                ('idContains', models.IntegerField(db_column='idContainsKnowledge', primary_key=True, serialize=False)),
+                ('idContainsKnowledge', models.IntegerField(db_column='idContainsKnowledge', primary_key=True, serialize=False)),
                 ('idLaborFunc', models.IntegerField(db_column='idLaborFunc')),
                 ('idNecKnowledge', models.IntegerField(db_column='idNecKnowledge')),
             ],
@@ -47,7 +47,7 @@ class Migration(migrations.Migration):
         migrations.CreateModel(
             name='LaborFuncContainsSkill',
             fields=[
-                ('idContains', models.IntegerField(db_column='idContainsSkill', primary_key=True, serialize=False)),
+                ('idContainsSkill', models.IntegerField(db_column='idContainsSkill', primary_key=True, serialize=False)),
                 ('idLaborFunc', models.IntegerField(db_column='idLaborFunc')),
                 ('idNecSkill', models.IntegerField(db_column='idNecSkill')),
             ],
@@ -60,6 +60,7 @@ class Migration(migrations.Migration):
             fields=[
                 ('idNecKnowledge', models.IntegerField(db_column='idNecKnowledge', primary_key=True, serialize=False)),
                 ('necKnowledgeName', models.TextField(db_column='necKnowledgeName')),
+                ('embeddingKnowledge', models.TextField(db_column='embeddingKnowledge')),
             ],
             options={
                 'db_table': 'tblnecessaryknowledge',
@@ -70,6 +71,7 @@ class Migration(migrations.Migration):
             fields=[
                 ('idNecSkill', models.IntegerField(db_column='idNecSkill', primary_key=True, serialize=False)),
                 ('necSkillName', models.TextField(db_column='necSkillName')),
+                ('embeddingSkill', models.TextField(db_column='embeddingSkill')),
             ],
             options={
                 'db_table': 'tblnecessaryskill',
@@ -78,8 +80,8 @@ class Migration(migrations.Migration):
         migrations.CreateModel(
             name='Profession',
             fields=[
-                ('idProf', models.IntegerField(db_column='idProfession', primary_key=True, serialize=False)),
-                ('nameProf', models.TextField(db_column='professionName')),
+                ('idProfession', models.IntegerField(db_column='idProfession', primary_key=True, serialize=False)),
+                ('professionName', models.TextField(db_column='professionName')),
             ],
             options={
                 'db_table': 'tblprofession',
