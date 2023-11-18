@@ -7,6 +7,10 @@
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Chifir31_diplom&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Chifir31_diplom)
 
 # Аттестационное тестирование
+**Тест А1 (положительный)**
+- Начальное состояние: Сервер запущен.
+- Действие: Пользователь заходит на Начальную страницу.
+- Ожидаемый результат: Для пользователя открывается Начальная страница.
 
 # Блочное тестирование
 
