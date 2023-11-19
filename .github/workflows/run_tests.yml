@@ -40,7 +40,7 @@ jobs:
           echo "SECRET_KEY = 'django-insecure-dummy-secret'" > ./djangoProject/secrets.py
           echo "USER = 'root'" >> ./djangoProject/secrets.py
           echo "PASSWORD = 'root'" >> ./djangoProject/secrets.py
-          coverage run --source=. -m manage.py test
+          coverage run --source=. manage.py test
       - name: Upload coverage data to coveralls.io
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
