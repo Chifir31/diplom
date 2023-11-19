@@ -1,6 +1,6 @@
 from django.http import JsonResponse
 from django.shortcuts import render
-from .classes.compofform import Comparison_Of_Formulations
+from .classes.compofform import ComparisonOfFormulations
 from .classes.workwithmodels import WorkWithModels as Wwm
 from .models import Profession, NecessarySkill as NecS, NecessaryKnowledge as NecK
 from django.core.exceptions import ObjectDoesNotExist
@@ -18,7 +18,7 @@ def all_professions(request):
 def profession(request):
     nameProf = request.GET.get('prof')
     current_profession = Wwm.get_profession_id_by_name(nameProf)
-    necKnowledge, necSkills = Wwm.getSkillsKnowledge(current_profession.idProfession)
+    necKnowledge, necSkills = Wwm.getSkillsKnowledge(current_profession)
 
     return render(request, 'main/profession.html', {'prof': nameProf, 'skills': necSkills, 'knowledges': necKnowledge})
 
@@ -35,13 +35,13 @@ def comparison(request):
             return render(request, 'main/comparison.html',
                           {'error': True, 'prof1': first_profession, 'prof2': second_profession})
 
-        necKnowledge1, necSkill1 = Wwm.getSkillsKnowledge(qs1.idProfession)
-        necKnowledge2, necSkill2 = Wwm.getSkillsKnowledge(qs2.idProfession)
+        necKnowledge1, necSkill1 = Wwm.getSkillsKnowledge(qs1)
+        necKnowledge2, necSkill2 = Wwm.getSkillsKnowledge(qs2)
 
-        compOfForm = Comparison_Of_Formulations()
-        similarKnowledge, identicalKnowledge = compOfForm.find_similar_formulationsV1(necKnowledge1, necKnowledge2)
+        compOfForm = ComparisonOfFormulations()
+        similarKnowledge, identicalKnowledge = compOfForm.find_similar_formulations_v1(necKnowledge1, necKnowledge2)
 
-        similarSkills, identicalSkills = compOfForm.find_similar_formulationsV1(necSkill1, necSkill2)
+        similarSkills, identicalSkills = compOfForm.find_similar_formulations_v1(necSkill1, necSkill2)
         return render(request, 'main/result_comparison.html',
                       {"prof1": first_profession, "prof2": second_profession,
                        "identicalK": identicalKnowledge, "identicalS": identicalSkills,
@@ -56,16 +56,16 @@ def comparison(request):
 
 def find_similar(request):
     if 'similar' in request.GET and request.GET != "":
-        compOfForm = Comparison_Of_Formulations()
+        compOfForm = ComparisonOfFormulations()
         current_formulation: str = request.GET.get('similar')
 
         formulations = [knowledge.necKnowledgeName for knowledge in NecK.objects.all().order_by('necKnowledgeName')]
-        similar_knowledge = compOfForm.find_similar_formulationsV2(current_formulation, formulations)
-        all_prof_for_knowledge = [Wwm.get_dict_prof_nec(sk, False) for sk in similar_knowledge]
+        similar_knowledge = compOfForm.find_similar_formulations_v2(current_formulation, formulations)
+        all_prof_for_knowledge = [Wwm.build_dict_prof_nec(sk, False) for sk in similar_knowledge]
 
         formulations = [skill.necSkillName for skill in NecS.objects.all().order_by('necSkillName')]
-        similar_skill = compOfForm.find_similar_formulationsV2(current_formulation, formulations)
-        all_prof_for_skills = [Wwm.get_dict_prof_nec(ss, True) for ss in similar_skill]
+        similar_skill = compOfForm.find_similar_formulations_v2(current_formulation, formulations)
+        all_prof_for_skills = [Wwm.build_dict_prof_nec(ss, True) for ss in similar_skill]
 
         return render(request, 'main/result_find_similar.html',
                       {"similar": current_formulation.capitalize(), "similarS": all_prof_for_skills,
