@@ -1,20 +1,25 @@
 from django.http import JsonResponse
 from django.shortcuts import render
+from django.views.decorators.http import require_safe
+
 from .classes.compofform import ComparisonOfFormulations
 from .classes.workwithmodels import WorkWithModels as Wwm
 from .models import Profession, NecessarySkill as NecS, NecessaryKnowledge as NecK
 from django.core.exceptions import ObjectDoesNotExist
 
 
+@require_safe
 def index(request):
     return render(request, 'main/index.html')
 
 
+@require_safe
 def all_professions(request):
     profs = Profession.objects.order_by('professionName')
     return render(request, 'main/all_professions.html', {'profs': profs})
 
 
+@require_safe
 def profession(request):
     nameProf = request.GET.get('prof')
     current_profession = Wwm.get_profession_id_by_name(nameProf)
@@ -23,6 +28,7 @@ def profession(request):
     return render(request, 'main/profession.html', {'prof': nameProf, 'skills': necSkills, 'knowledges': necKnowledge})
 
 
+@require_safe
 def comparison(request):
     if 'prof1' in request.GET and request.GET.get('prof1') != '' and 'prof2' in request.GET and request.GET.get(
             'prof2') != '':
@@ -54,6 +60,7 @@ def comparison(request):
     return render(request, 'main/comparison.html')
 
 
+@require_safe
 def find_similar(request):
     if 'similar' in request.GET and request.GET != "":
         compOfForm = ComparisonOfFormulations()

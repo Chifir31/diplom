@@ -1,5 +1,7 @@
 {% extends 'main/base.html'%}
-
+{% block title %}
+    Найденные знания и умения
+{% endblock %}
 {%block head%}
     <style>
         .ref_prof {
@@ -35,6 +37,7 @@
             </td>
         </tr>
         {% endfor %}
+        <caption>Схожие необходимые знания</caption>
     </table>
 {% else %}
     <h3 style="color: dimgray">Схожих необходимых знаний не найдено</h3>
@@ -57,6 +60,7 @@
             </td>
         </tr>
         {% endfor %}
+    <caption>Схожие необходимые умения</caption>
     </table>
 {% else %}
     <h3 style="color: dimgray">Схожих необходимых знаний не найдено</h3>

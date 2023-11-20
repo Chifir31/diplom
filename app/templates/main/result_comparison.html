@@ -1,5 +1,9 @@
 {% extends 'main/base.html'%}
 
+{% block title %}
+    Результат сравнения
+{% endblock %}
+
 {%block head%}
     <style>
 
@@ -41,6 +45,7 @@
             <td>- {{k.form2}}</td>
         </tr>
         {% endfor %}
+    <caption>Схожие необходимые знания</caption>
     </table>
 {% else %}
     <h3 style="color: dimgray"> Схожие необходимых знаний не найдено</h3>
@@ -60,6 +65,7 @@
             <td>- {{s.form2}}</td>
         </tr>
         {% endfor %}
+    <caption>Схожие необходимые умения</caption>
     </table>
 {% else %}
     <h3 style="color: dimgray"> Схожие необходимых умений не найдено</h3>
