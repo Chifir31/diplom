@@ -18,7 +18,7 @@ def all_professions(request):
 def profession(request):
     nameProf = request.GET.get('prof')
     current_profession = Wwm.get_profession_id_by_name(nameProf)
-    necKnowledge, necSkills = Wwm.getSkillsKnowledge(current_profession)
+    necKnowledge, necSkills = Wwm.getKnowledgeSkills(current_profession)
 
     return render(request, 'main/profession.html', {'prof': nameProf, 'skills': necSkills, 'knowledges': necKnowledge})
 
@@ -35,8 +35,8 @@ def comparison(request):
             return render(request, 'main/comparison.html',
                           {'error': True, 'prof1': first_profession, 'prof2': second_profession})
 
-        necKnowledge1, necSkill1 = Wwm.getSkillsKnowledge(qs1)
-        necKnowledge2, necSkill2 = Wwm.getSkillsKnowledge(qs2)
+        necKnowledge1, necSkill1 = Wwm.getKnowledgeSkills(qs1)
+        necKnowledge2, necSkill2 = Wwm.getKnowledgeSkills(qs2)
 
         compOfForm = ComparisonOfFormulations()
         similarKnowledge, identicalKnowledge = compOfForm.find_similar_formulations_v1(necKnowledge1, necKnowledge2)
@@ -59,11 +59,11 @@ def find_similar(request):
         compOfForm = ComparisonOfFormulations()
         current_formulation: str = request.GET.get('similar')
 
-        formulations = [knowledge.necKnowledgeName for knowledge in NecK.objects.all().order_by('necKnowledgeName')]
+        formulations = [knowledge.necKnowledgeName for knowledge in Wwm.get_all_knowledge()]
         similar_knowledge = compOfForm.find_similar_formulations_v2(current_formulation, formulations)
         all_prof_for_knowledge = [Wwm.build_dict_prof_nec(sk, False) for sk in similar_knowledge]
 
-        formulations = [skill.necSkillName for skill in NecS.objects.all().order_by('necSkillName')]
+        formulations = [skill.necSkillName for skill in Wwm.get_all_skills()]
         similar_skill = compOfForm.find_similar_formulations_v2(current_formulation, formulations)
         all_prof_for_skills = [Wwm.build_dict_prof_nec(ss, True) for ss in similar_skill]
 

@@ -101,3 +101,61 @@ class WorkWithModelsTestCase(TestCase):
 
     def test_get_profession_id_by_name(self):
         self.assertEqual(3, self.wwm.get_profession_id_by_name("Программист"))
+
+    def test_get_all_knowledge(self):
+        k = self.wwm.get_all_knowledge()
+        self.assertTrue(len(k) == 1898)
+
+    def test_get_all_skills(self):
+        s = self.wwm.get_all_skills()
+        self.assertTrue(len(s) == 1860)
+
+    def test_getSkillsKnowledge(self):
+        k, s = self.wwm.getKnowledgeSkills(27)
+        self.assertTrue(len(k) == 12)
+        self.assertTrue(len(s) == 10)
+
+    def test_build_dict_prof_nec(self):
+        dk1 = self.wwm.build_dict_prof_nec("Методики анализа рисков", False)
+        self.assertEqual(dk1['form'], "Методики анализа рисков")
+        self.assertTrue(len(dk1['profs']) > 0)
+
+        ds1 = self.wwm.build_dict_prof_nec("Анализировать риски", True)
+        self.assertEqual(ds1['form'], "Анализировать риски")
+        self.assertTrue(len(ds1['profs']) > 0)
+
+
+class ZIntegrationTestCase(TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.cls_atomics = cls._enter_atomics()
+        add_professions()
+        add_glf_contains_prof()
+        add_glf_contains_func()
+        add_lf_contains_knowledge()
+        add_lf_contains_skill()
+        add_nec_knowledge()
+        add_nec_skill()
+        cls.wwm = WorkWithModels()
+        cls.cof = ComparisonOfFormulations()
+
+    def test_find_similar_formulations_v1(self):
+        k1, s1 = self.wwm.getKnowledgeSkills(2)
+        k2, s2 = self.wwm.getKnowledgeSkills(3)
+        sf, iff = self.cof.find_similar_formulations_v1(k1, k2)
+        self.assertFalse(len(sf) == 0)
+        self.assertFalse(len(iff) == 0)
+
+        sf, iff = self.cof.find_similar_formulations_v1(s1, s2)
+        self.assertFalse(len(sf) == 0)
+        self.assertFalse(len(iff) == 0)
+
+    def test_find_similar_formulations_v2(self):
+        f = [knowledge.necKnowledgeName for knowledge in self.wwm.get_all_knowledge()]
+        k = self.cof.find_similar_formulations_v2('СУБД', f)
+
+        f = [skill.necSkillName for skill in self.wwm.get_all_skills()]
+        s = self.cof.find_similar_formulations_v2('СУБД', f)
+
+        self.assertFalse(len(k) == 0)
+        self.assertFalse(len(s) == 0)

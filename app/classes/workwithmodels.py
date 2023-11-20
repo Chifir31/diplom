@@ -12,7 +12,15 @@ class WorkWithModels:
         return Prof.objects.get(professionName=profession_name).idProfession
 
     @staticmethod
-    def getSkillsKnowledge(id_profession: int):
+    def get_all_knowledge():
+        return NecK.objects.all().order_by('necKnowledgeName')
+
+    @staticmethod
+    def get_all_skills():
+        return NecS.objects.all().order_by('necSkillName')
+
+    @staticmethod
+    def getKnowledgeSkills(id_profession: int):
         idsGenLaborFunc = [p.idGenLaborFunc for p in GLFContainsP.objects.filter(idProfession=id_profession)]
         idsLaborFunc = [p.idLaborFunc for p in GFContainsF.objects.filter(idGenLaborFunc__in=idsGenLaborFunc)]
 
@@ -27,7 +35,7 @@ class WorkWithModels:
         return necKnowledge, necSkills
 
     @staticmethod
-    def get_professions(id_necessary: int, is_find_skills: bool) -> list[str]:
+    def _get_professions(id_necessary: int, is_find_skills: bool) -> list[str]:
         if is_find_skills:
             idsLaborFunc = [kos.idLaborFunc for kos in LFContainsS.objects.filter(idNecSkill=id_necessary)]
         else:
@@ -37,7 +45,6 @@ class WorkWithModels:
         idsProfession = [fr.idProfession for fr in GLFContainsP.objects.filter(idGenLaborFunc__in=idsGenLaborFunc)]
         professions = [fr.professionName for fr in Prof.objects.filter(idProfession__in=idsProfession).order_by(
             "professionName")]
-
         return professions
 
     @staticmethod
@@ -48,9 +55,9 @@ class WorkWithModels:
     @staticmethod
     def build_dict_prof_nec(similar_necessary: str, is_for_skills: bool) -> dict[str, list[str]]:
         if is_for_skills:
-            profs = WorkWithModels.get_professions(int(NecS.objects.get(necSkillName=similar_necessary)),
-                                                   is_for_skills)
+            profs = WorkWithModels._get_professions(int(NecS.objects.get(necSkillName=similar_necessary)),
+                                                    is_for_skills)
         else:
-            profs = WorkWithModels.get_professions(int(NecK.objects.get(necKnowledgeName=similar_necessary)),
-                                                   is_for_skills)
+            profs = WorkWithModels._get_professions(int(NecK.objects.get(necKnowledgeName=similar_necessary)),
+                                                    is_for_skills)
         return {"form": similar_necessary, "profs": profs}
