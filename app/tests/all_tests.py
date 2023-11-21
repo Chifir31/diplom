@@ -125,7 +125,7 @@ class WorkWithModelsTestCase(TestCase):
         self.assertTrue(len(ds1['profs']) > 0)
 
 
-class ZIntegrationTestCase(TestCase):
+class IntegrationTestCase(TestCase):
     @classmethod
     def setUpClass(cls):
         cls.cls_atomics = cls._enter_atomics()
@@ -159,3 +159,36 @@ class ZIntegrationTestCase(TestCase):
 
         self.assertFalse(len(k) == 0)
         self.assertFalse(len(s) == 0)
+
+
+class ViewsTestCase(TestCase):
+
+    def test_index(self):
+        response = self.client.get('')
+        self.assertEqual(response.status_code, 200)
+
+    def test_all_professions(self):
+        response = self.client.get('/all_professions')
+        self.assertEqual(response.status_code, 200)
+
+    def test_profession(self):
+        response = self.client.get('/profession?prof=Администратор+БД')
+        self.assertEqual(response.status_code, 200)
+
+    def test_comparison(self):
+        response = self.client.get('/comparison')
+        self.assertEqual(response.status_code, 200)
+
+        response = self.client.get('/comparison?term=пр')
+        self.assertEqual(response.status_code, 200)
+
+        response = self.client.get('/comparison?prof1=Программист&prof2=Техник-программист')
+        self.assertEqual(response.status_code, 200)
+
+    def test_find_similar(self):
+        response = self.client.get('/find_similar')
+        self.assertEqual(response.status_code, 200)
+
+        response = self.client.get('/find_similar?similar=Языки+программирования')
+        self.assertEqual(response.status_code, 200)
+
