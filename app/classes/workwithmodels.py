@@ -53,7 +53,7 @@ class WorkWithModels:
         return Tensor(embedding)
 
     @staticmethod
-    def build_dict_prof_nec(similar_necessary: str, is_for_skills: bool) -> dict[str, list[str]]:
+    def build_dict_prof_nec(similar_necessary: str, is_for_skills: bool) -> dict:
         if is_for_skills:
             profs = WorkWithModels._get_professions(int(NecS.objects.get(necSkillName=similar_necessary)),
                                                     is_for_skills)

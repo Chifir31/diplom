@@ -96,7 +96,8 @@ class ComparisonOfFormulations:
                 similar_formulations.append(formulation2)
             else:
                 if len(lemmas_formulation_v2) != 0:
-                    if self._subset_check_v2(lemmas_formulation_v2, _formulation2):
+                    if self._subset_check_v2(lemmas_formulation_v2, _formulation2) and \
+                            formulation2 not in similar_formulations:
                         similar_formulations.append(formulation2)
         return similar_formulations
 

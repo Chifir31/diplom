@@ -88,11 +88,52 @@ class ComparisonOfFormulationsTestCase(TestCase):
         self.assertEqual(s, true_s)
         self.assertEqual(i, true_i)
 
+        first_formulations = ["Языки, утилиты и среды программирования, средства пакетного выполнения процедур",
+                              "Интерфейсы взаимодействия внутренних модулей программного проекта"]
+        second_formulations = ["Языки, утилиты и среды программирования, средства пакетного выполнения процедур",
+                               "Средства и методы коммуникаций"]
+        ff = self.cof.get_formulation_with_embedding(first_formulations)
+        sf = self.cof.get_formulation_with_embedding(second_formulations)
+        s, i = self.cof.find_similar_formulations_v1(ff, sf)
+        true_s = []
+        true_i = ["Языки, утилиты и среды программирования, средства пакетного выполнения процедур"]
+        self.assertEqual(s, true_s)
+        self.assertEqual(i, true_i)
+
+        first_formulations = ["Языки, утилиты и среды программирования, средства пакетного выполнения процедур",
+                              "Интерфейсы взаимодействия внутренних модулей программного проекта"]
+        second_formulations = ["Средства и методы коммуникаций",
+                               "Интерфейсы взаимодействия внутренних модулей программного продукта"]
+        ff = self.cof.get_formulation_with_embedding(first_formulations)
+        sf = self.cof.get_formulation_with_embedding(second_formulations)
+        s, i = self.cof.find_similar_formulations_v1(ff, sf)
+        true_s = [{"form1": "Интерфейсы взаимодействия внутренних модулей программного проекта",
+                   "form2": "Интерфейсы взаимодействия внутренних модулей программного продукта"}]
+        true_i = []
+        self.assertEqual(s, true_s)
+        self.assertEqual(i, true_i)
+
+        first_formulations = ["Языки, утилиты и среды программирования, средства пакетного выполнения процедур",
+                              "Средства и методы коммуникаций"]
+        second_formulations = ["Интерфейсы взаимодействия внутренних модулей программного проекта",
+                               "Интерфейсы взаимодействия внутренних модулей программного проекта"]
+        ff = self.cof.get_formulation_with_embedding(first_formulations)
+        sf = self.cof.get_formulation_with_embedding(second_formulations)
+        s, i = self.cof.find_similar_formulations_v1(ff, sf)
+        true_s = []
+        self.assertEqual(s, [])
+        self.assertEqual(i, [])
+
     def test_find_similar_formulations_v2(self):
         s = self.cof.find_similar_formulations_v2("Методы коммуникаций",
                                                   ["Методы коммуникации и что-то там еще",
                                                    "Средства коммуникаций и что-то там еще"])
         self.assertEqual(s, ["Методы коммуникации и что-то там еще"])
+
+        s = self.cof.find_similar_formulations_v2("Методы коммуникаций",
+                                                  ["Языки, утилиты и среды программирования",
+                                                   "Средства коммуникаций и что-то там еще"])
+        self.assertEqual(s, [])
 
 
 class WorkWithModelsTestCase(TestCase):
