@@ -57,6 +57,16 @@ def add_nec_skill():
                            embeddingSkill=d['embeddingSkill']).save()
 
 
+def add_data():
+    add_professions()
+    add_glf_contains_prof()
+    add_glf_contains_func()
+    add_lf_contains_knowledge()
+    add_lf_contains_skill()
+    add_nec_knowledge()
+    add_nec_skill()
+
+
 # Create your tests here.
 class ComparisonOfFormulationsTestCase(TestCase):
     @classmethod
@@ -90,13 +100,7 @@ class WorkWithModelsTestCase(TestCase):
     @classmethod
     def setUpClass(cls):
         cls.cls_atomics = cls._enter_atomics()
-        add_professions()
-        add_glf_contains_prof()
-        add_glf_contains_func()
-        add_lf_contains_knowledge()
-        add_lf_contains_skill()
-        add_nec_knowledge()
-        add_nec_skill()
+        add_data()
         cls.wwm = WorkWithModels()
 
     def test_get_profession_id_by_name(self):
@@ -129,13 +133,7 @@ class IntegrationTestCase(TestCase):
     @classmethod
     def setUpClass(cls):
         cls.cls_atomics = cls._enter_atomics()
-        add_professions()
-        add_glf_contains_prof()
-        add_glf_contains_func()
-        add_lf_contains_knowledge()
-        add_lf_contains_skill()
-        add_nec_knowledge()
-        add_nec_skill()
+        add_data()
         cls.wwm = WorkWithModels()
         cls.cof = ComparisonOfFormulations()
 
@@ -163,6 +161,11 @@ class IntegrationTestCase(TestCase):
 
 class ViewsTestCase(TestCase):
 
+    @classmethod
+    def setUpClass(cls):
+        cls.cls_atomics = cls._enter_atomics()
+        add_data()
+
     def test_index(self):
         response = self.client.get('')
         self.assertEqual(response.status_code, 200)
@@ -172,7 +175,7 @@ class ViewsTestCase(TestCase):
         self.assertEqual(response.status_code, 200)
 
     def test_profession(self):
-        response = self.client.get('/profession?prof=Администратор+БД')
+        response = self.client.get('/profession?prof=Администратор%20БД')
         self.assertEqual(response.status_code, 200)
 
     def test_comparison(self):
@@ -191,4 +194,3 @@ class ViewsTestCase(TestCase):
 
         response = self.client.get('/find_similar?similar=Языки+программирования')
         self.assertEqual(response.status_code, 200)
-
