@@ -188,6 +188,9 @@ class ViewsTestCase(TestCase):
         response = self.client.get('/comparison?prof1=Программист&prof2=Техник-программист')
         self.assertEqual(response.status_code, 200)
 
+        response = self.client.get('/comparison?prof1=Абракадабра&prof2=Потерялся')
+        self.assertEqual(response.status_code, 200)
+
     def test_find_similar(self):
         response = self.client.get('/find_similar')
         self.assertEqual(response.status_code, 200)
